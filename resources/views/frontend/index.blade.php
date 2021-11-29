@@ -1,89 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv='cache-control' content='no-cache'>
-    <meta http-equiv='expires' content='0'>
-    <meta http-equiv='pragma' content='no-cache'>
+@extends('frontend.layouts.app')
 
-
-    <title>Instalpay</title>
-
-    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-
-    <!-- google fonts  -->
-    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;600&family=Montserrat:wght@400;500&display=swap" rel="stylesheet">
-
-    <!-- font awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"/>
-
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/owl.carousel.min.css"/>
-    <link rel="stylesheet" href="css/slick.css"/>
-
-    <!-- grid css -->
-    <link rel="stylesheet" href="css/custom-grid.css">
-    <!-- custom css -->
-    <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-    <!-- popup section start -->
-    <section class="popup-sec-bg" id="popup-sec">
-        <div class="popup-sec">
-            <div class="cross-btn" id="cross-btn">
-                <i class="fas fa-times"></i>
-            </div>
-            <div class="container">
-                <img src="images/INSTALPAY.png" alt="logo" class="w-100">
-                <p>Indirizziamo clienti qualificati instalpay verso i vostri siti attraverso campagne di marketing cross-merchant</p>
-                <div class="btn">
-                    <a href="signup.html">SignUp Now</a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- popup section end -->
-
-    <!-- translator section start -->
-    <div class="translator">
-        <div id="google_translate_element"></div>
-    </div>
-    <!-- translator section end -->
-
-    <!-- header section start -->
-    <header class="header-sec" id="header">
-        <div class="container">
-            <nav class="p-relative">
-                <div class="row mobile-row align-center">
-                    <div class="col-12 col-md-4 logo">
-                        <!-- logo -->
-                        <a href="index.html">
-                            <img src="images/INSTALPAYf.png" alt="logo">
-                        </a>
-                    </div>
-                    <div class="col-12 col-md-8">
-                        <div class="btn-group justify-end flex-column flex-md-row">
-                            <div class="btn search-bar p-relative order-2 order-md-1">
-                                <input type="search" placeholder="Search" />
-                                <button><i class="fas fa-search"></i></button>
-                            </div>
-                            <div class="d-flex order-1 order-md-2 tablet-signup">
-                                <div class="btn btn-success">
-                                    <a href="signup.html">Iscrizione</a>
-                                </div>
-                                <div class="btn">
-                                    <a href="signup.html">Login</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </nav>
-        </div>
-    </header>
-    <!-- header section end -->
+@section('content')
 
     <!-- banner section start  -->
     <div class="main-slider owl-carousel">
@@ -120,7 +37,7 @@
     <!-- services section start -->
     <section class="services category-sec sec-padding clearfix" data-aos="fade-right" data-aos-duration="1000">
         <div class="container">
-            <div class="title"> 
+            <div class="title">
                 <h2>Ser<span>vizi</span></h2>
             </div>
             <div class="row">
@@ -511,8 +428,8 @@
                             <h3><a href="#">Blackmiths fabbro</a></h3>
                         </div>
                     </div>
-                    
-                </div>  
+
+                </div>
             </div>
 
             <div class="shop-page-link">
@@ -525,7 +442,7 @@
     <!-- ecommerce section start -->
     <section class="ecommerce-sec sec-padding">
         <div class="container">
-            <div class="title">   
+            <div class="title">
                 <h2><span>Piattaforma</span> di e-commerce</h2>
             </div>
             <div class="owl-carousel ecommerce-slide" data-aos="/fade-right" data-aos-duration="1000">
@@ -633,7 +550,7 @@
     <!-- physicalshop section start -->
     <section class="physical-shop-sec sec-padding clearfix">
         <div class="container">
-            <div class="title"> 
+            <div class="title">
                 <h2>Negozio <span>fisico</span></h2>
             </div>
             <div class="row" data-aos="/fade-left" data-aos-duration="1000">
@@ -903,7 +820,7 @@
     <!-- review section end  -->
     <div class="review-sec sec-padding">
         <div class="container">
-            <div class="title">    
+            <div class="title">
                 <h2>Cosa dice il <span>cliente</span></h2>
             </div>
             <div class="slider-wrapper" data-aos="zoom-in" data-aos-duration="1000">
@@ -937,100 +854,13 @@
                     </div>
                 </div>
                 <div class="dots-wrapper">
-                    <span class="dot" onclick="currentSlide(1)"></span> 
-                    <span class="dot" onclick="currentSlide(2)"></span> 
-                    <span class="dot" onclick="currentSlide(3)"></span> 
+                    <span class="dot" onclick="currentSlide(1)"></span>
+                    <span class="dot" onclick="currentSlide(2)"></span>
+                    <span class="dot" onclick="currentSlide(3)"></span>
                 </div>
             </div>
         </div>
     </div>
     <!-- review section end  -->
 
-    <!-- footer section start  -->
-    <footer class="footer-sec">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-md-6 col-xl-3 mb-3 mb-0-lg">
-                    <div class="page-link">
-                        <h5 class="footer-title">Pages</h5>
-                        <ul>
-                            <li><a href="contact.html">Contact</a></li>
-                            <li><a href="about.html">About</a></li>
-                            <li><a href="signup.html">Signup</a></li>
-                            <li><a href="shop.html">Shop</a></li>
-                            <li><a href="category.html">Category</a></li>
-                            <li><a href="service.html">Services</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-xl-3 mb-3 mb-0-lg">
-                    <div class="page-link">
-                        <h5 class="footer-title">Chi siamo</h5>
-                        <ul>
-                            <li><a href="#">Help</a></li>
-                            <li><a href="#">Login</a></li>
-                            <li><a href="#">Partner</a></li>
-                            <li><a href="#">Documentation</a></li>
-                            <li><a href="#">Login to customer account</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-xl-3 mt-3-md mb-3 mb-0-lg mt-0-xl">
-                    <div class="footer-about">
-                        <img src="images/INSTALPAYf.png" alt="logo" class="w-100">
-                        <p>Instalpay fornisce prestiti per servizi quali idraulici , elettricisti , imbianchini , gommisti , traslochi  o prestiti online e in negozio in modo che gli acquirenti possono <a href="about.html">Read More</a></p>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6 col-xl-3 mt-3-md mb-3 mb-0-lg mt-0-xl">
-                    <div class="contact-info">
-                        <h5 class="footer-title">Contact Info</h5>
-                        <ul class="contact">
-							<li>
-								<span><i class="fas fa-map-marker-alt"></i></span>
-								<span>Address </span>
-								<span class="address">instalpay 41 Devonshire Street, Ground Floor, London, England, W1G 7AJ</span>
-							</li>
-                            <li>
-                                <span><i class="fas fa-phone"></i></span>
-                                <span>Phone </span>
-                                <span><a href="#">+923 111 111 444</a></span>
-                            </li>
-                            <li>
-                                <span><i class="fab fa-whatsapp"></i></span>
-                                <span>Whatsapp </span>
-                                <span><a href="#">+923 111 111 444</a></span>
-                            </li>
-                            <li>
-                                <span><i class="far fa-envelope"></i></span>
-                                <span>Email </span>
-                                <span><a href="mailto:">+923 111 111 444</a></span>
-                            </li>
-                        </ul>
-
-                        <ul class="social">
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                            <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-			<div class="copyright-text t-center">
-                <p>
-                    &copy; 2021 <a href="index.html">instalpay LTD</a> All Rights Reserved
-                </p>
-            </div>
-        </div>
-    </footer>
-    <!-- footer section end  -->
-
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/slick.min.js"></script>
-    <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-    <script src="js/custom.js"></script>
-
-</body>
-</html>
+@endsection
