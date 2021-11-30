@@ -71,5 +71,8 @@
     <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     <script src="js/custom.js"></script>
 
+    <!-- here goes all exta js scripts-->
+    @yield('extra-script')
+
 </body>
 </html>
