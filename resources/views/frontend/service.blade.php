@@ -5,7 +5,7 @@
         <div class="container">
             <div class="breadcrumb-text t-center">
                 <h2>Shop</h2>
-                <span><a href="index.html">Home</a> / </span>
+                <span><a href="index">Home</a> / </span>
                 <span class="disabled">Shop</span>
             </div>
         </div>
@@ -137,6 +137,83 @@
                             </div>
                         </div>
                         <h3><a href="#">VETERINARI</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/services/FISIOTERAPISTI.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">FISIOTERAPISTI</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">FISIOTERAPISTI</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/services/TATUATORI.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">TATUATORI</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">TATUATORI</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/services/FOTOGRAFI.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">FOTOGRAFI</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">FOTOGRAFI</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/services/NOLEGGIO AUTO LUSSO.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">NOLEGGIO AUTO LUSSO</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">NOLEGGIO AUTO LUSSO</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/services/CENTRI ESTETICI.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">CENTRI ESTETICI</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">CENTRI ESTETICI</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/services/RIMOZIONE TATUAGGI.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">RIMOZIONE TATUAGGI</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">RIMOZIONE TATUAGGI</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/services/PORTE E FINESTRE 2.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">PORTE E FINESTRE 2</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">PORTE E FINESTRE 2</a></h3>
                     </div>
                 </div>
             </div>

@@ -6,7 +6,7 @@
         <div class="container">
             <div class="breadcrumb-text t-center">
                 <h2>Shop</h2>
-                <span><a href="index.html">Home</a> / </span>
+                <span><a href="index">Home</a> / </span>
                 <span class="disabled">Shop</span>
             </div>
         </div>
@@ -21,7 +21,7 @@
             </div>
             <div class="row" data-aos="/fade-left" data-aos-duration="1000">
 
-                    <div class="col-6 col-sm-4 col-lg-3">
+                    <div class="col-6 col-sm-4 col-lg-2-5">
                         <div class="category-item">
                             <div class="category-img">
                                 <img src="images/category/3D-printers-stampanti-3D.jpg" alt="image" class="w-100">
@@ -32,7 +32,7 @@
                             <h3><a href="#">3D printers stampanti 3D</a></h3>
                         </div>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-3">
+                    <div class="col-6 col-sm-4 col-lg-2-5">
                         <div class="category-item">
                             <div class="category-img">
                                 <img src="images/category/adult-toys-giocattoli-per-adulti.jpg" alt="image" class="w-100">
@@ -42,18 +42,7 @@
                             <h3><a href="#">Adult toys giocattoli per adulti</a></h3>
                         </div>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-3">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category/aesthetic-doctors-medici-estetici.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">Aesthetic doctors medici estetici</a></h3>
-                                </div>
-                            </div>
-                            <h3><a href="#">Aesthetic doctors medici estetici</a></h3>
-                        </div>
-                    </div>
-                    <div class="col-6 col-sm-4 col-lg-3">
+                    <div class="col-6 col-sm-4 col-lg-2-5">
                         <div class="category-item">
                             <div class="category-img">
                                 <img src="images/category/antenna-playr-antennista.jpg" alt="image" class="w-100">
@@ -64,18 +53,7 @@
                             <h3><a href="#">Antenna playr antennista</a></h3>
                         </div>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-3">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category/auto-glass-repair-riparazione-vetri-auto.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">Auto glass repair riparazione vetri auto</a></h3>
-                                </div>
-                            </div>
-                            <h3><a href="#">Auto glass repair riparazione vetri auto</a></h3>
-                        </div>
-                    </div>
-                    <div class="col-6 col-sm-4 col-lg-3">
+                    <div class="col-6 col-sm-4 col-lg-2-5">
                         <div class="category-item">
                             <div class="category-img">
                                 <img src="images/category/cell-phones-&-tablets-cellulari-e-tablets.jpg" alt="image" class="w-100">
@@ -86,7 +64,7 @@
                             <h3><a href="#">Cell phones & tablets cellulari e tablets</a></h3>
                         </div>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-3">
+                    <div class="col-6 col-sm-4 col-lg-2-5">
                         <div class="category-item">
                             <div class="category-img">
                                 <img src="images/category/coachbuilder-carrozziere.jpg" alt="image" class="w-100">
@@ -97,7 +75,7 @@
                             <h3><a href="#">Coachbuilder carrozziere</a></h3>
                         </div>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-3">
+                    <div class="col-6 col-sm-4 col-lg-2-5">
                         <div class="category-item">
                             <div class="category-img">
                                 <img src="images/category/drones-droni.jpg" alt="image" class="w-100">
@@ -108,7 +86,7 @@
                             <h3><a href="#">Drones droni</a></h3>
                         </div>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-3">
+                    <div class="col-6 col-sm-4 col-lg-2-5">
                         <div class="category-item">
                             <div class="category-img">
                                 <img src="images/category/flowers-&-bonsai-fiori-&-bonsai.jpg" alt="image" class="w-100">
@@ -119,29 +97,7 @@
                             <h3><a href="#">Flowers & bonsai fiori & bonsai</a></h3>
                         </div>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-3">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category/gardener-giardiniere.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">Gardener giardiniere</a></h3>
-                                </div>
-                            </div>
-                            <h3><a href="#">Gardener giardiniere</a></h3>
-                        </div>
-                    </div>
-                    <div class="col-6 col-sm-4 col-lg-3">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category/gommista-tire-specialist.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">Gommista tire specialist</a></h3>
-                                </div>
-                            </div>
-                            <h3><a href="#">Gommista tire specialist</a></h3>
-                        </div>
-                    </div>
-                    <div class="col-6 col-sm-4 col-lg-3">
+                    <div class="col-6 col-sm-4 col-lg-2-5">
                         <div class="category-item">
                             <div class="category-img">
                                 <img src="images/category/nautical-accessories-accessori-nautici.jpg" alt="image" class="w-100">
@@ -152,18 +108,7 @@
                             <h3><a href="#">Nautical accessories accessori nautici</a></h3>
                         </div>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-3">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category/photographers-fotografi.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">Photographers fotografi</a></h3>
-                                </div>
-                            </div>
-                            <h3><a href="#">Photographers fotografi</a></h3>
-                        </div>
-                    </div>
-                    <div class="col-6 col-sm-4 col-lg-3">
+                    <div class="col-6 col-sm-4 col-lg-2-5">
                         <div class="category-item">
                             <div class="category-img">
                                 <img src="images/category//removals-traslochi.jpg" alt="image" class="w-100">
@@ -174,7 +119,7 @@
                             <h3><a href="#">Removals traslochi</a></h3>
                         </div>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-3">
+                    <div class="col-6 col-sm-4 col-lg-2-5">
                         <div class="category-item">
                             <div class="category-img">
                                 <img src="images/category/skiing-&-snow-si-&-neve.jpg" alt="image" class="w-100">
@@ -185,7 +130,7 @@
                             <h3><a href="#">Skiing & snow si & neve</a></h3>
                         </div>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-3">
+                    <div class="col-6 col-sm-4 col-lg-2-5">
                         <div class="category-item">
                             <div class="category-img">
                                 <img src="images/category/speakers-&-amplifiers-diffusori-&-amplificatori.jpg" alt="image" class="w-100">
@@ -196,7 +141,7 @@
                             <h3><a href="#">Speakers & amplifiers diffusori & amplificatori</a></h3>
                         </div>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-3">
+                    <div class="col-6 col-sm-4 col-lg-2-5">
                         <div class="category-item">
                             <div class="category-img">
                                 <img src="images/category/sports-&-camping-sport-&-campeggio.jpg" alt="image" class="w-100">
@@ -207,29 +152,7 @@
                             <h3><a href="#">Sports & camping sport & campeggio</a></h3>
                         </div>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-3">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category/tattoo-removal-rimozione-tatuaggi.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">Tattoo removal rimozione tatuaggi</a></h3>
-                                </div>
-                            </div>
-                            <h3><a href="#">Tattoo removal rimozione tatuaggi</a></h3>
-                        </div>
-                    </div>
-                    <div class="col-6 col-sm-4 col-lg-3">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category/upholsterers-tappezzieri.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">Upholsterers tappezzieri</a></h3>
-                                </div>
-                            </div>
-                            <h3><a href="#">Upholsterers tappezzieri</a></h3>
-                        </div>
-                    </div>
-                    <div class="col-6 col-sm-4 col-lg-3">
+                    <div class="col-6 col-sm-4 col-lg-2-5">
                         <div class="category-item">
                             <div class="category-img">
                                 <img src="images/category/wedding-matrimoni.jpg" alt="image" class="w-100">
@@ -240,7 +163,7 @@
                             <h3><a href="#">Wedding matrimoni</a></h3>
                         </div>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-3">
+                    <div class="col-6 col-sm-4 col-lg-2-5">
                         <div class="category-item">
                             <div class="category-img">
                                 <img src="images/category/wigs-&-extensions-parrucche-&-extensions.jpg" alt="image" class="w-100">

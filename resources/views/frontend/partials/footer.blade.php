@@ -6,31 +6,30 @@
                 <div class="page-link">
                     <h5 class="footer-title">Pages</h5>
                     <ul>
-                        <li><a href="contact.html">Contact</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="signup.html">Signup</a></li>
-                        <li><a href="shop.html">Shop</a></li>
-                        <li><a href="category.html">Category</a></li>
-                        <li><a href="service.html">Services</a></li>
+                        <li><a href="contact">Contact</a></li>
+                        <li><a href="about">About</a></li>
+                        <li><a href="signup">Signup</a></li>
+                        <li><a href="shop">Shop</a></li>
+                        <li><a href="category">Category</a></li>
+                        <li><a href="service">Services</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-12 col-md-6 col-xl-3 mb-3 mb-0-lg">
                 <div class="page-link">
-                    <h5 class="footer-title">Chi siamo</h5>
+                    <h5 class="footer-title">Log In</h5>
                     <ul>
-                        <li><a href="#">Help</a></li>
-                        <li><a href="#">Login</a></li>
-                        <li><a href="#">Partner</a></li>
-                        <li><a href="#">Documentation</a></li>
-                        <li><a href="#">Login to customer account</a></li>
+                        <li><a href="#">Developers</a></li>
+                        <li><a href="#">Clients</a></li>
+                        <li><a href="#">Shops</a></li>
+                        <li><a href="#">Sellers</a></li>
                     </ul>
                 </div>
             </div>
             <div class="col-12 col-md-6 col-xl-3 mt-3-md mb-3 mb-0-lg mt-0-xl">
                 <div class="footer-about">
                     <img src="images/INSTALPAYf.png" alt="logo" class="w-100">
-                    <p>Instalpay fornisce prestiti per servizi quali idraulici , elettricisti , imbianchini , gommisti , traslochi  o prestiti online e in negozio in modo che gli acquirenti possono <a href="about.html">Read More</a></p>
+                    <p>Instalpay fornisce prestiti per servizi quali idraulici , elettricisti , imbianchini , gommisti , traslochi  o prestiti online e in negozio in modo che gli acquirenti possono <a href="about">Read More</a></p>
                 </div>
             </div>
             <div class="col-12 col-md-6 col-xl-3 mt-3-md mb-3 mb-0-lg mt-0-xl">
@@ -70,7 +69,7 @@
         </div>
         <div class="copyright-text t-center">
             <p>
-                &copy; 2021 <a href="index.html">instalpay LTD</a> All Rights Reserved
+                &copy; 2021 <a href="index">instalpay LTD</a> All Rights Reserved
             </p>
         </div>
     </div>

@@ -5,7 +5,7 @@
                 <div class="row mobile-row align-center">
                     <div class="col-12 col-md-4 logo">
                         <!-- logo -->
-                        <a href="index.html">
+                        <a href="index.php">
                             <img src="images/INSTALPAYf.png" alt="logo">
                         </a>
                     </div>
@@ -17,10 +17,10 @@
                             </div>
                             <div class="d-flex order-1 order-md-2 tablet-signup">
                                 <div class="btn btn-success">
-                                    <a href="signup.html">Iscrizione</a>
+                                    <a href="signup">Iscrizione</a>
                                 </div>
                                 <div class="btn">
-                                    <a href="signup.html">Login</a>
+                                    <a href="signup">Login</a>
                                 </div>
                             </div>
                         </div>

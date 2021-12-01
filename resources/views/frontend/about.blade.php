@@ -5,7 +5,7 @@
         <div class="container">
             <div class="breadcrumb-text t-center">
                 <h2>About Us</h2>
-                <span><a href="index.html">Home</a> / </span>
+                <span><a href="index">Home</a> / </span>
                 <span class="disabled">About Us</span>
             </div>
         </div>

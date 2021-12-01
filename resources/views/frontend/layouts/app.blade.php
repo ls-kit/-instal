@@ -15,6 +15,7 @@
 
     <!-- google fonts  -->
     <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;600&family=Montserrat:wght@400;500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&display=swap" rel="stylesheet"> 
 
     <!-- font awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"/>
@@ -39,7 +40,7 @@
                 <img src="images/INSTALPAY.png" alt="logo" class="w-100">
                 <p>Indirizziamo clienti qualificati instalpay verso i vostri siti attraverso campagne di marketing cross-merchant</p>
                 <div class="btn">
-                    <a href="signup.html">SignUp Now</a>
+                    <a href="signup">SignUp Now</a>
                 </div>
             </div>
         </div>
@@ -68,6 +69,7 @@
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="js/owl.carousel.min.js"></script>
     <script src="js/slick.min.js"></script>
+    <script src="js/jquery.plate.js"></script>
     <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     <script src="js/custom.js"></script>
 

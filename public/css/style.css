@@ -14,17 +14,19 @@
 }
 body {
 	top: 0 !important;
+	
 }
 
 /* preset  */
+
 h1,h2,h3,h4,h5,h6 ,
 h1 span,h2 span,h3 span,h4 span,h5 span,h6 span {
 	font-family: 'Heebo', sans-serif;
 }
 
 p {
-	font-size: 17px;
-	line-height: 28px;
+	font-size: 15px;
+	line-height: 26px;
 	letter-spacing: 1px;
 }
 p a {
@@ -60,22 +62,10 @@ blockquote:after {
 .img-width {
 	max-width: 100%;
 }
-.owl-dots {
-	position: absolute;
-	bottom: 10px;
-	left: 50%;
-	transform: translateX(-50%);
+.bg-skyblue {
+	background-color: var(--skyblue);
 }
-.owl-dots button.active {
-	background-color: var(--primary) !important;
-}
-.owl-dots button {
-	width: 15px;
-	height: 15px;
-	border-radius: 50%;
-	background-color: #fff !important;
-	margin: 0 3px;
-}
+
 
 /* button  start*/
 .btn-group {
@@ -132,7 +122,7 @@ blockquote:after {
 	z-index: 999;
 }
 .header-sec:hover {
-	background-color: var(--skyblue);
+	background-color: #BCE4FE3B;
 }
 .header-sec:hover #hover-logo {
 	background: url('../images/INSTALPAYf.png') no-repeat 100% / 100%;
@@ -208,8 +198,7 @@ blockquote:after {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-	padding: 35px 0;
-	height: 75vh;
+	padding: 90px 0;
 	position: relative;
 	z-index: 1;
 	display: flex;
@@ -223,16 +212,18 @@ blockquote:after {
 	width: 100%;
 	height: 100%;
 	background-color: var(--dark);
-	opacity: 0.8;
+	opacity: 0.5;
 	z-index: -1;
 }
 .banner-sec .banner-caption {
     color: #fff;
 }
 .banner-sec .banner-caption h2 {
-	font-size: 45px;
-	font-weight: 600;
+	font-size: 70px;
+	font-weight: 700;
 	margin-bottom: 12px;
+	line-height: 78px;
+	font-family: 'Open Sans Condensed', sans-serif;
 }
 .banner-sec .banner-caption h4 {
 	font-size: 19px;
@@ -264,50 +255,61 @@ blockquote:after {
 .banner-sec .banner-img img {
     max-width: 100%;
 }
+
+.banner-sec .card {
+	width: 285px;
+	background: var(--white);
+	padding: 10px;
+	border-radius: 12px;
+	transform: matrix3d(0.969991, -0.0424717, -0.239403, 0, 0, 0.984625, -0.174679, 0, 0.243141, 0.169437, 0.955078, 0, 0, 0, 0, 1);
+	box-shadow: rgba(0, 0, 0, 0.18) 0px 10px 20px -3px;
+}
+.banner-sec .card .card-img img {
+	border-radius: 12px;
+}
+.banner-sec .card h3 {
+	padding: 10px 0 5px 0;
+	font-size: 21px;
+}
+.banner-sec .card h3 span {
+	display: block;
+	font-size: 18px;
+}
 /* banner section end  */
 
 /* info section start  */
-.info-sec .container {
-	width: 980px;
+.info-sec .info-item {
+	padding: 30px 20px;
 }
-.info-sec .info-tab span {
-	color: var(--dark);
-	margin-right: 1rem;
-	display: inline-block;
-	cursor: pointer;
-	font-weight: 600;
+.info-sec .info-item h2 {
+	font-size: 25px;
 }
-.info-sec .info-tab span:last-child {
-	margin-right: 0;
+.info-sec .info-item p {
+	margin-bottom: 1.5rem;
+	margin-top: 0.5rem;
 }
-.info-sec .info-tab span.active {
-	border-bottom: 2px solid var(--primary);
-	padding-bottom: 10px;
+.info-sec .info-item img {
+	width: 120px;
 }
-.info-sec .tab-content {
-	display: none;
-	padding-top: 2rem;
+.info-sec .consumer {
+	background-color: #F7F7F7;
 }
-.info-sec .tab-content.active {
-	display: block;
+
+.info-sec .info-item .btn a:hover {
+	background-color: var(--primary);
 }
 /* info section end  */
 
 /* work section start  */
-.work-sec {
-	background-color: #EAEDED;
-}
+
 .work-sec .container {
 	width: 980px;
 }
 .work-sec .work-item {
 	background-color: var(--white);
 	padding: 26px 10px;
-	display: flex;
-	flex-direction: column;
-	justify-content: space-evenly;
-	align-items: center;
 	text-align: center;
+	box-shadow: 0 0 5px #e3e3e3;
 }
 .work-sec .work-item img {
 	width: 165px;
@@ -397,27 +399,32 @@ blockquote:after {
 /* ecommerce section end  */
 
 /* category section start  */
-.category-sec {
+.services.category-sec  {
 	background-color: #EAEDED;
 }
-.services.category-sec .btn {
+.category-sec .btn {
 	text-align: center;
 	height: 100%;
 	margin-top: 25px;
 }
-.services.category-sec .btn a {
+.category-sec .btn a {
 	font-size: 15px;
-	padding: 8px 35px;
+	padding: 8px 25px;
 }
-.services.category-sec .btn a:hover {
+.category-sec .btn a:hover {
 	color: var(--dark);
 }
 .category-sec .fix {
 	display: flex;
 }
-.services.category-sec .title,
+.services.category-sec .title {
+	text-align: left;
+}
 .category-sec.service-page .title {
 	text-align: center;
+}
+.category-sec.service-page .title {
+	margin-bottom: 1rem;
 }
 .category-sec .title {
 	text-align: left;
@@ -464,6 +471,7 @@ blockquote:after {
 .category-sec .category-item .category-img {
 	overflow: hidden;
 	position: relative;
+	display: flex;
 }
 .category-sec .category-item img {
 	width: 100%;
@@ -488,7 +496,6 @@ blockquote:after {
 }
 .category-sec .category-item .category-img .text-overlay h3 {
 	font-size: 16px;
-	padding: 0;
 	height: 100%;
 	display: flex;
 	align-items: center;
@@ -715,6 +722,9 @@ to {opacity: 1}
 	opacity: 0.8;
 	z-index: -1;
 }
+.breadcrump-sec .breadcrumb-text {
+	margin-top: 2rem;
+}
 .breadcrump-sec .breadcrumb-text,
 .breadcrump-sec .breadcrumb-text a {
 	color: var(--white);
@@ -940,7 +950,7 @@ to {opacity: 1}
 	width: 100%;
 }
 .shop-sec .product-category ul h4 {
-	margin-bottom: 1.2em;
+	margin-bottom: 1.4rem;
 }
 .shop-sec .product-category ul li {
 	margin-bottom: 0.8rem;
@@ -952,6 +962,10 @@ to {opacity: 1}
 	display: inline-block;
 	border-radius: 4px;
 	font-size: 14px;
+	transition: 0.3s ease-in-out;
+}
+.shop-sec .product-category ul li a:hover {
+	background-color: #0D79E61A;
 }
 .shop-sec .filter {
 	display: flex;
@@ -992,7 +1006,7 @@ to {opacity: 1}
 	padding: 20px 5px;
 }
 .shop-sec .shop-item .shop-img .text-overlay a {
-	font-size: 30px;
+	font-size: 26px;
 	text-align: center;
 }
 /* shop section end */
@@ -1073,6 +1087,13 @@ to {opacity: 1}
 	.kit-qr .container {
 		width: 98%;
 	}
+	.banner-sec .banner-caption h5 {
+		margin-bottom: 2rem;
+	}
+	.banner-sec .banner-caption h2 {
+		font-size: 44px;
+		line-height: 50px;
+	}
 }
 @media (min-width: 576px) and (max-width: 991px) {
 	.about-sec .about-list ul li {
@@ -1096,9 +1117,6 @@ to {opacity: 1}
 	.about-sec .about-list.list-ltr ul li span:last-child {
 		order: 1;
 		margin-right: 18px;
-	}
-	.banner-sec .banner-caption h2 {
-		font-size: 45px;
 	}
 	.popup-sec {
 		width: 80%;
@@ -1144,6 +1162,9 @@ to {opacity: 1}
 	.header-sec .btn.search-bar {
 		margin-top: 1rem;
 	}
+	.banner-sec {
+		padding: 105px 0;
+	}
 
 }
 @media screen and (max-width: 576px) {
@@ -1156,12 +1177,6 @@ to {opacity: 1}
 	}
 	.popup-sec img {
 		width: 100%;
-	}
-	.banner-sec .banner-caption h2 {
-		font-size: 26px;
-	}
-	.banner-sec {
-		height: 80vh;
 	}
 	.info-sec .info-tab span.active {
 		margin-bottom: 1rem;
@@ -1182,6 +1197,7 @@ to {opacity: 1}
 		letter-spacing: 0px;
 		line-height: 2rem;
 		margin: 0px 0;
+		margin-bottom: 2rem;
 	}
 	.banner-sec .banner-caption h4 {
 		font-size: 18px;
