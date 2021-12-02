@@ -19,165 +19,414 @@
             <div class="title">
                 <h2>All <span>Category</span></h2>
             </div>
-            <div class="row" data-aos="/fade-left" data-aos-duration="1000">
-
-                    <div class="col-6 col-sm-4 col-lg-2-5">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category/3D-printers-stampanti-3D.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">3D printers stampanti 3D</a></h3>
-                                </div>
+            <div class="row">
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/GOMME AUTO.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">GOMME AUTO</a></h3>
                             </div>
-                            <h3><a href="#">3D printers stampanti 3D</a></h3>
                         </div>
+                        <h3><a href="#">GOMME AUTO</a></h3>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-2-5">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category/adult-toys-giocattoli-per-adulti.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">Adult toys giocattoli per adulti</a></h3></div>
-                                </div>
-                            <h3><a href="#">Adult toys giocattoli per adulti</a></h3>
-                        </div>
-                    </div>
-                    <div class="col-6 col-sm-4 col-lg-2-5">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category/antenna-playr-antennista.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">Antenna playr antennista</a></h3>
-                                </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/BICICLETTE.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">BICICLETTE</a></h3></div>
                             </div>
-                            <h3><a href="#">Antenna playr antennista</a></h3>
-                        </div>
+                        <h3><a href="#">BICICLETTE</a></h3>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-2-5">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category/cell-phones-&-tablets-cellulari-e-tablets.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">Cell phones & tablets cellulari e tablets</a></h3>
-                                </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/DRONI.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">DRONI</a></h3>
                             </div>
-                            <h3><a href="#">Cell phones & tablets cellulari e tablets</a></h3>
                         </div>
+                        <h3><a href="#">DRONI</a></h3>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-2-5">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category/coachbuilder-carrozziere.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">Coachbuilder carrozziere</a></h3>
-                                </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/MATERASSI.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">MATERASSI</a></h3>
                             </div>
-                            <h3><a href="#">Coachbuilder carrozziere</a></h3>
                         </div>
+                        <h3><a href="#">MATERASSI</a></h3>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-2-5">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category/drones-droni.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">Drones droni</a></h3>
-                                </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">FARMACIE</a></h3>
                             </div>
-                            <h3><a href="#">Drones droni</a></h3>
                         </div>
+                        <h3><a href="#">FARMACIE</a></h3>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-2-5">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category/flowers-&-bonsai-fiori-&-bonsai.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">Flowers & bonsai fiori & bonsai</a></h3>
-                                </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">TAPPETI</a></h3>
                             </div>
-                            <h3><a href="#">Flowers & bonsai fiori & bonsai</a></h3>
                         </div>
+                        <h3><a href="#">TAPPETI</a></h3>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-2-5">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category/nautical-accessories-accessori-nautici.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">Nautical accessories accessori nautici</a></h3>
-                                </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">QUADRI E LITOGRAFIE</a></h3>
                             </div>
-                            <h3><a href="#">Nautical accessories accessori nautici</a></h3>
                         </div>
+                        <h3><a href="#">QUADRI E LITOGRAFIE</a></h3>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-2-5">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category//removals-traslochi.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">Removals traslochi</a></h3>
-                                </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/SCI E NEVE.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">SCI E NEVE</a></h3>
                             </div>
-                            <h3><a href="#">Removals traslochi</a></h3>
                         </div>
+                        <h3><a href="#">SCI E NEVE</a></h3>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-2-5">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category/skiing-&-snow-si-&-neve.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">Skiing & snow si & neve</a></h3>
-                                </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">LAMPADE LAMPADARI</a></h3>
                             </div>
-                            <h3><a href="#">Skiing & snow si & neve</a></h3>
                         </div>
+                        <h3><a href="#">LAMPADE LAMPADARI</a></h3>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-2-5">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category/speakers-&-amplifiers-diffusori-&-amplificatori.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">Speakers & amplifiers diffusori & amplificatori</a></h3>
-                                </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">GADGETS E REGALI</a></h3>
                             </div>
-                            <h3><a href="#">Speakers & amplifiers diffusori & amplificatori</a></h3>
                         </div>
+                        <h3><a href="#">GADGETS E REGALI</a></h3>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-2-5">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category/sports-&-camping-sport-&-campeggio.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">Sports & camping sport & campeggio</a></h3>
-                                </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/FIORI E BONSAI.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">FIORI E BONSAI</a></h3>
                             </div>
-                            <h3><a href="#">Sports & camping sport & campeggio</a></h3>
                         </div>
+                        <h3><a href="#">FIORI E BONSAI</a></h3>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-2-5">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category/wedding-matrimoni.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">Wedding matrimoni</a></h3>
-                                </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/PORTE E FINESTRE .jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">PORTE E FINESTRE</a></h3>
                             </div>
-                            <h3><a href="#">Wedding matrimoni</a></h3>
                         </div>
+                        <h3><a href="#">PORTE E FINESTRE</a></h3>
                     </div>
-                    <div class="col-6 col-sm-4 col-lg-2-5">
-                        <div class="category-item">
-                            <div class="category-img">
-                                <img src="images/category/wigs-&-extensions-parrucche-&-extensions.jpg" alt="image" class="w-100">
-                                <div class="text-overlay">
-                                    <h3><a href="#">Wigs & extensions parrucche & extensions</a></h3>
-                                </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">TUTTO PER IL PARTY</a></h3>
                             </div>
-                            <h3><a href="#">Wigs & extensions parrucche & extensions</a></h3>
                         </div>
+                        <h3><a href="#">TUTTO PER IL PARTY</a></h3>
                     </div>
-
-
-
-            </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">OCCHIALI</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">OCCHIALI</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/STAMPANTI 3D.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">STAMPANTI 3D</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">STAMPANTI 3D</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">GIOCATTOLI</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">GIOCATTOLI</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">SKATEBOARDS</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">SKATEBOARDS</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">MAKE UP & COSMETICI</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">MAKE UP & COSMETICI</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/VINO & LIQUORI.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">VINO & LIQUORI</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">VINO & LIQUORI</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/ARREDAMENTO .jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">ARREDAMENTO</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">ARREDAMENTO</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">OROLOGI E GIOIELLI</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">OROLOGI E GIOIELLI</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">AUTO RICAMBI</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">AUTO RICAMBI</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">PROFUMI E COSMESI</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">PROFUMI E COSMESI</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/ARTICOLI PER ADULTI.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">ARTICOLI PER ADULTI/a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">ARTICOLI PER ADULTI</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/SPORT & CAMPEGGIO.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">SPORT & CAMPEGGIO</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">SPORT & CAMPEGGIO</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">PARRUCCHE & EXTENTION</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">PARRUCCHE & EXTENTION</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/CELLULARI & TABLET .jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">CELLULARI & TABLET</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">CELLULARI & TABLET</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">TENDE INTERNO & ESTERNO</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">TENDE INTERNO & ESTERNO</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">ARTE & COLLEZIONISMO</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">ARTE & COLLEZIONISMO</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">ARTICOLI MUSICALI</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">ARTICOLI MUSICALI</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/DIFFUSORI & AMPLIFICATORI.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">DIFFUSORI & AMPLIFICATORI</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">DIFFUSORI & AMPLIFICATORI</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">BRICOLAGE & FAI DA TE</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">BRICOLAGE & FAI DA TE</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/ANTIFURTI.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">ANTIFURTI</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">ANTIFURTI</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">FOTOGRAFIA</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">FOTOGRAFIA</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/MATRIMONI.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">MATRIMONI</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">MATRIMONI</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">MOTO & CASCHI</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">MOTO & CASCHI</a></h3>
+                    </div>
+                </div>
+                <div class="col-6 col-sm-4 col-lg-2-5">
+                    <div class="category-item">
+                        <div class="category-img">
+                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <div class="text-overlay">
+                                <h3><a href="#">SPIONAGGIO</a></h3>
+                            </div>
+                        </div>
+                        <h3><a href="#">SPIONAGGIO</a></h3>
+                    </div>
+                </div>
+            </div>  
         </div>
     </section>
     <!-- category section end -->

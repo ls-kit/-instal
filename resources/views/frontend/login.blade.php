@@ -47,110 +47,26 @@
     </header>
     <!-- header section end -->
 
-    <!-- Registration-category section end -->
-    <section class="registration-category sec-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-md-6">
-                    <div class="register-item bg-white t-center">
-                        <a href="#" class="register-tab active" data-toggle-target=".content-1">
-                            <i class="fas fa-users"></i>
-                            <h2>Registrati come commerciante</h2>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-12 col-md-6">
-                    <div class="register-item bg-white t-center">
-                        <a href="#" class="register-tab" data-toggle-target=".content-2">
-                            <i class="fas fa-users"></i>
-                            <h2>Registrati come utente</h2>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Registration-category section end -->
-
     <!-- Registration form start -->
     <div class="registration-form bg-white m-auto register-content content-1 active">
-        <h2>Modulo di registrazione del commerciante</h2>
+        <h2>Accedi ora</h2>
         <form action="">
             <div class="form-group">
-                <label for="fname">Nome</label>
-                <input type="text" id="fname">
+                <label for="email">Email / nome utente</label>
+                <input type="email" id="email" placeholder="Inserisci la tua email">
             </div>
             <div class="form-group">
-                <label for="lname">Cognome</label>
-                <input type="text" id="lname">
-            </div>
-            <div class="form-group">
-                <label for="add">Indirizzo</label>
-                <input type="text" id="add">
-            </div>
-            <div class="form-group">
-                <label for="phonenumber">Numero cellulare</label>
-                <input type="text" id="phonenumber">
-            </div>
-            <div class="form-group">
-                <label for="homenumber">Numero casa</label>
-                <input type="text" id="homenumber">
-            </div>
-            <div class="form-group">
-                <label for="taxcode">Codice fiscale</label>
-                <input type="number" id="taxcode">
-            </div>
-            <div class="form-group">
-                <label for="bank">Banca</label>
-                <input type="text" id="bank">
+                <label for="pass">Parola d'ordine</label>
+                <input type="password" id="pass" placeholder="Inserisci la tua password">
             </div>
 
             <div class="form-group">
-                <input type="submit" value="Continua">
+                <input type="submit" value="Login">
             </div>
-            <span class="log-in">Hai già un account ? <a href="login.html">Accedi ora</a></span>
+            <span class="log-in">Lost your Password ? <a href="login.html">Forget Password</a></span>
         </form>
     </div>
     <!-- Registration form end -->
-
-    <div class="registration-form bg-white m-auto register-content content-2">
-        <h2>Modulo di registrazione utente</h2>
-        <form action="">
-            <div class="form-group">
-                <label for="fname">Nome</label>
-                <input type="text" id="fname">
-            </div>
-            <div class="form-group">
-                <label for="lname">Cognome</label>
-                <input type="text" id="lname">
-            </div>
-            <div class="form-group">
-                <label for="add">Indirizzo</label>
-                <input type="text" id="add">
-            </div>
-            <div class="form-group">
-                <label for="phonenumber">Numero cellulare</label>
-                <input type="text" id="phonenumber">
-            </div>
-            <div class="form-group">
-                <label for="homenumber">Numero casa</label>
-                <input type="text" id="homenumber">
-            </div>
-            <div class="form-group">
-                <label for="taxcode">Codice fiscale</label>
-                <input type="number" id="taxcode">
-            </div>
-            <div class="form-group">
-                <label for="bank">Banca</label>
-                <input type="text" id="bank">
-            </div>
-
-            <div class="form-group">
-                <input type="submit" value="Continua">
-            </div>
-            <span class="log-in">Hai già un account ? <a href="login.html">Accedi ora</a></span>
-        </form>
-    </div>
 
     <!-- footer section start  -->
     <footer class="footer-sec">

@@ -15,7 +15,7 @@
 
     <!-- google fonts  -->
     <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;600&family=Montserrat:wght@400;500&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">  
 
     <!-- font awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"/>
@@ -31,7 +31,7 @@
 </head>
 <body>
     <!-- popup section start -->
-    <section class="popup-sec-bg" id="popup-sec">
+    <!-- <section class="popup-sec-bg" id="popup-sec">
         <div class="popup-sec">
             <div class="cross-btn" id="cross-btn">
                 <i class="fas fa-times"></i>
@@ -44,7 +44,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- popup section end -->
 
     <!-- translator section start -->

@@ -44,255 +44,277 @@
                     <div class="row">
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">ABBIGLIAMENTO</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/accessories accessori.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/ABBIGLIAMENTO.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Accessories accessori</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Accessories accessori</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">SCARPE</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/auto parts parti auto.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/SCARPE.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Auto parts parti auto</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Auto parts parti auto</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">ACCESSORI ABBIGLAIAMENTO</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/bags & suitcases borse & valigie.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/ACCESSORI ABBIGLAIAMENTO.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Bags & suitcases borse & valigie</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a></i>
                                     </div>
                                 </div>
-                                <h3><a href="#">Bags & suitcases borse & valigie</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">PROFUMERIE & COSMETICI</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/carpets negozio tappeti.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/PROFUMERIE & COSMETICI.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Carpets negozio tappeti</a></i>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Carpets negozio tappeti</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">BICICLETTE</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/chandaliers lampadari.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/BICICLETTE.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Chandaliers lampadari</a></i>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Chandaliers lampadari</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">LAMPADARI & LAMPADE</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/clothing negozi abbigliamento.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/LAMPADARI & LAMPADE.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Clothing negozi abbigliamento</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Clothing negozi abbigliamento</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">TAPPETI</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/courtains tende interno ed esterno.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/TAPPETI .jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Courtains tende interno ed esterno</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Courtains tende interno ed esterno</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">ARREDAMENTO</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/DIY & gardening fai da te & giardinaggio.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/ARREDAMENTO.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">DIY & gardening fai da te & giardinaggio</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">DIY & gardening fai da te & giardinaggio</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">GIOIELLERIE</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/doors & windows porte e finestre.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/GIOIELLERIE.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Doors & windows porte e finestre</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Doors & windows porte e finestre</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">MATERASSI</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/eyewear negozio occhiali.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/MATERASSI.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Eyewear negozio occhiali</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Eyewear negozio occhiali</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">STRUMENTI MUSICALI</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/fishes & aquariums pesci e acquari.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/STRUMENTI MUSICALI.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Fishes & aquariums pesci e acquari</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Fishes & aquariums pesci e acquari</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">PESCI & ACQUARI</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/foto vino x mallporium.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/PESCI & ACQUARI.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Foto vino x mallporium</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Foto vino x mallporium</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">OCCHIALI</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/furnitures arredamento.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/OCCHIALI .jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Furnitures arredamento</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Furnitures arredamento</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">TENDE ESTERNO & INTERNO</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/gadgets & gifts gadgets & regali.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/TENDE ESTERNO & INTERNO.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Gadgets & gifts gadgets & regali</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Gadgets & gifts gadgets & regali</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">GADGETS & REGALI</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/jewelery store gioellerie.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/GADGETS & REGALI .jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Jewelery store gioellerie</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Jewelery store gioellerie</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">PETS & ACCESSORI</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/lingerie lingerie.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/PETS & ACCESSORI.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Lingerie lingerie</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Lingerie lingerie</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">PORTE & FINESTRE</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/matresses materassi.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/PORTE & FINESTRE.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Matresses materassi</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Matresses materassi</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">QUADRI & LITOGRAFIE</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/musical instruments strumenti musiacali.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/QUADRI & LITOGRAFIE.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Musical instruments strumenti musiacali</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Musical instruments strumenti musiacali</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">DIY & GARDENING</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/paintings & lithigraphies quadri & litografie.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/DIY & GARDENING.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Paintings & lithigraphies quadri & litografie</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Paintings & lithigraphies quadri & litografie</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">AUTO RICAMBI</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/perfumeries profumerie.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/AUTO RICAMBI.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Perfumeries profumerie</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Perfumeries profumerie</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">VINO & LIQUORI</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/pets & accesories pets & accessori.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/VINO & LIQUORI.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Pets & accesories pets & accessori</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Pets & accesories pets & accessori</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">GIOCATTOLI</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/shoes scarpe.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/GIOCATTOLI.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Shoes scarpe</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Shoes scarpe</a></h3>
                             </div>
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
+                                <h3><a href="#">BORSE & VALIGIE</a></h3>
                                 <div class="shop-img">
-                                    <img src="images/physical-shop/toys giocattoli.jpg" alt="image" class="w-100">
+                                    <img src="images/physical-shop/BORSE & VALIGIE.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">
-                                        <a href="#">Toys giocattoli</a>
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
                                     </div>
                                 </div>
-                                <h3><a href="#">Toys giocattoli</a></h3>
+                            </div>
+                        </div>
+                        <div class="col-6 col-sm-4 col-lg-3 fix">
+                            <div class="shop-item">
+                                <h3><a href="#">LINGERIE</a></h3>
+                                <div class="shop-img">
+                                    <img src="images/physical-shop/LINGERIE .jpg" alt="image" class="w-100">
+                                    <div class="text-overlay">
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6 col-sm-4 col-lg-3 fix">
+                            <div class="shop-item">
+                                <h3><a href="#">PARRUCCHE & EXTENTIONS</a></h3>
+                                <div class="shop-img">
+                                    <img src="images/physical-shop/PARRUCCHE & EXTENTIONS .jpg" alt="image" class="w-100">
+                                    <div class="text-overlay">
+                                        <a href="#"><i class="fas fa-store-alt"></i></a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>

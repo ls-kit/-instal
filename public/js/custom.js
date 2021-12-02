@@ -19,7 +19,14 @@ $(document).ready(function(){
         }
     });
   
-    // main slider 
+    // banner slider 
+    $('.banner-slide').owlCarousel({
+        items: 1,
+        loop: false,
+        dots: true,
+    });
+
+    // card slider 
     $('.main-slider').owlCarousel({
         items: 1,
         autoplay: true,
@@ -63,7 +70,7 @@ $(document).ready(function(){
   
     // service slider 
     $('.service-slider').owlCarousel({
-      autoplay: true,
+      autoplay: false,
       loop: true,
       dots: false,
       autoplayTimeout: 4000,

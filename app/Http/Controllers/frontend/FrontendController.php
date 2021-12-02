@@ -46,5 +46,9 @@ class FrontendController extends Controller
    {
     return view('frontend.signup');
    }
+   public function login()
+   {
+    return view('frontend.login');
+   }
 
 }
