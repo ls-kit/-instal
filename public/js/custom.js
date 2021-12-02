@@ -70,7 +70,7 @@ $(document).ready(function(){
   
     // service slider 
     $('.service-slider').owlCarousel({
-      autoplay: false,
+      autoplay: true,
       loop: true,
       dots: false,
       autoplayTimeout: 4000,
