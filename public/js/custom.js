@@ -41,12 +41,12 @@ $(document).ready(function(){
   
     // category slider 
     $('.category-slide').owlCarousel({
-        autoplay: true,
+        autoplay: false,
         loop: true,
         dots: false,
         autoplayTimeout: 4000,
         nav: true,  
-        navText: ["<i class='fas fa-arrow-left'></i>","<i class='fas fa-arrow-right'></i>"],
+        navText: ["<i class='fas fa-arrow-circle-left'></i>", "<i class='fas fa-arrow-circle-right'></i>"],
         responsiveClass:true,
         responsive:{
             0:{
@@ -75,7 +75,7 @@ $(document).ready(function(){
       dots: false,
       autoplayTimeout: 4000,
       nav: true,  
-      navText: ["<i class='fas fa-arrow-left'></i>","<i class='fas fa-arrow-right'></i>"],
+      navText: ["<i class='fas fa-arrow-circle-left'></i>", "<i class='fas fa-arrow-circle-right'></i>"],
       responsiveClass:true,
       responsive:{
               0:{

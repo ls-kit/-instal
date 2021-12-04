@@ -77,7 +77,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/category/TAPPETI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">TAPPETI</a></h3>
                             </div>
@@ -88,7 +88,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/category/QUADRI-E-LITOGRAFIE.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">QUADRI E LITOGRAFIE</a></h3>
                             </div>
@@ -110,7 +110,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/category/LAMPADE-LAMPADARI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">LAMPADE LAMPADARI</a></h3>
                             </div>
@@ -121,7 +121,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/category/GADGETS-E-REGALI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">GADGETS E REGALI</a></h3>
                             </div>
@@ -154,7 +154,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/category/TUTTO-PER-IL-PARTY.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">TUTTO PER IL PARTY</a></h3>
                             </div>
@@ -165,7 +165,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/category/OCCHIALI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">OCCHIALI</a></h3>
                             </div>
@@ -187,7 +187,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/category/GIOCATTOLI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">GIOCATTOLI</a></h3>
                             </div>
@@ -198,7 +198,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/category/SKATEBOARDS.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">SKATEBOARDS</a></h3>
                             </div>
@@ -209,7 +209,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/category/MAKE-UP-&-COSMETICI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">MAKE UP & COSMETICI</a></h3>
                             </div>
@@ -242,7 +242,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/category/OROLOGI-E-GIOIELLI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">OROLOGI E GIOIELLI</a></h3>
                             </div>
@@ -253,7 +253,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/category/AUTO-RICAMBI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">AUTO RICAMBI</a></h3>
                             </div>
@@ -264,7 +264,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/category/PROFUMI E COSMESI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">PROFUMI E COSMESI</a></h3>
                             </div>
@@ -297,7 +297,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/category/PARRUCCHE-&-EXTENTION.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">PARRUCCHE & EXTENTION</a></h3>
                             </div>
@@ -319,7 +319,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/category/TENDE INTERNO & ESTERNO.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">TENDE INTERNO & ESTERNO</a></h3>
                             </div>
@@ -341,7 +341,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/category/ARTICOLI-MUSICALI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">ARTICOLI MUSICALI</a></h3>
                             </div>
@@ -363,7 +363,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/category/BRICOLAGE-&-FAI-DA-TE.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">BRICOLAGE & FAI DA TE</a></h3>
                             </div>
@@ -385,7 +385,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/category/FOTOGRAFIA.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">FOTOGRAFIA</a></h3>
                             </div>
@@ -407,7 +407,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/category/MOTO-&-CASCHI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">MOTO & CASCHI</a></h3>
                             </div>
@@ -418,7 +418,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/category/SPIONAGGIO.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">SPIONAGGIO</a></h3>
                             </div>
