@@ -63,7 +63,7 @@
             <div class="form-group">
                 <input type="submit" value="Login">
             </div>
-            <span class="log-in">Lost your Password ? <a href="login.html">Forget Password</a></span>
+            <span class="log-in"><a href="login.html">Dimenticare la password?</a></span>
         </form>
     </div>
     <!-- Registration form end -->

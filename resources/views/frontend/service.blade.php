@@ -22,12 +22,12 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/services/plumber-idraulico.jpg" alt="image" class="w-100">
+                            <img src="images/services/IDRAULICI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
-                                <h3><a href="#">Plumber idraulico</a></h3>
+                                <h3><a href="#">IDRAULICI</a></h3>
                             </div>
                         </div>
-                        <h3><a href="#">Plumber idraulico</a></h3>
+                        <h3><a href="#">IDRAULICI</a></h3>
                     </div>
                 </div>
                 <div class="col-6 col-sm-4 col-lg-2-5">
@@ -55,17 +55,6 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/services/placeholder.jpg" alt="image" class="w-100">
-                            <div class="text-overlay">
-                                <h3><a href="#">IDRAULICI</a></h3>
-                            </div>
-                        </div>
-                        <h3><a href="#">IDRAULICI</a></h3>
-                    </div>
-                </div>
-                <div class="col-6 col-sm-4 col-lg-2-5">
-                    <div class="category-item">
-                        <div class="category-img">
                             <img src="images/services/IMBIANCHINI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">IMBIANCHINI</a></h3>
@@ -77,7 +66,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/services/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/services/PARQUETTISTI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">PARQUETTISTI</a></h3>
                             </div>
@@ -120,7 +109,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/services/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/services/GIARDINIERI-ANTENNISTI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">GIARDINIERI ANTENNISTI</a></h3>
                             </div>
@@ -153,7 +142,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/services/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/services/RESTAURATORI-MOBILI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">RESTAURATORI MOBILI</a></h3>
                             </div>
@@ -164,7 +153,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/services/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/services/FABBRI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">FABBRI</a></h3>
                             </div>
@@ -175,7 +164,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/services/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/services/FALEGNAMI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">FALEGNAMI</a></h3>
                             </div>
@@ -186,7 +175,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/services/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/services/INSTALLATORI-ANIFURTI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">INSTALLATORI ANIFURTI</a></h3>
                             </div>
@@ -197,7 +186,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/services/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/services/GOMMISTI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">GOMMISTI</a></h3>
                             </div>
@@ -219,7 +208,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/services/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/services/CARROZZIERI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">CARROZZIERI</a></h3>
                             </div>
@@ -252,7 +241,7 @@
                 <div class="col-6 col-sm-4 col-lg-2-5">
                     <div class="category-item">
                         <div class="category-img">
-                            <img src="images/services/placeholder.jpg" alt="image" class="w-100">
+                            <img src="images/services/MEDICI-ESTETICI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
                                 <h3><a href="#">MEDICI ESTETICI</a></h3>
                             </div>

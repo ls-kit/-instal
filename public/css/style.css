@@ -140,16 +140,9 @@ blockquote:after {
 .header-sec:hover {
 	background-color: #BCE4FE3B;
 }
-.header-sec:hover #hover-logo {
-	background: url('../images/INSTALPAYf.png') no-repeat 100% / 100%;
-	height: 100%;
-	display: inline-block;
-}
-.header-sec:hover #hover-logo img {
-	visibility: hidden;
-}
 .header-sec.signup-header {
 	position: relative;
+	background-color: var(--white);
 }
 .header-sec.sticky {
 	position: fixed;
@@ -462,19 +455,17 @@ blockquote:after {
 	margin-bottom: 16px;
 }
 .category-sec .owl-carousel .owl-nav button {
-	font-size: 15px;
+	font-size: 22px;
 	margin-right: 18px;
+	transition: 0.3s;
+}
+.category-sec:hover .owl-carousel .owl-nav button {
+	color: var(--primary);
 }
 .services.category-sec .category-item {
 	background-color: var(--white);
 	margin-bottom: 1rem;
 }
-/* .category-sec .category-item,
-.category-sec .category-item .category-img, 
-.category-sec .category-item img {
-	width: 225px;
-	height: 225px;
-} */
 .category-sec.service-page .category-item,
 .category-sec.service-page .category-item .category-img, 
 .category-sec.service-page .category-item img {
@@ -550,7 +541,6 @@ blockquote:after {
 .physical-shop-sec .shop-item .shop-img, 
 .physical-shop-sec .shop-item img {
 	width: 100%;
-	height: 225px;
 }
 .physical-shop-sec .shop-item {
 	padding: 15px 10px;
@@ -1073,7 +1063,7 @@ to {opacity: 1}
 		width: 100%;
 	}
 	.physical-shop-sec .shop-item h3 {
-		min-height: 60px;
+		min-height: 48px;
 	}
 	.physical-shop-sec .shop-item .shop-img, 
 	.physical-shop-sec .shop-item img {
@@ -1113,7 +1103,7 @@ to {opacity: 1}
 		margin-bottom: 2rem;
 	}
 	.banner-sec .banner-caption h2 {
-		font-size: 44px;
+		font-size: 35px;
 		line-height: 50px;
 	}
 }
