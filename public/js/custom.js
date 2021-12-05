@@ -41,7 +41,7 @@ $(document).ready(function(){
   
     // category slider 
     $('.category-slide').owlCarousel({
-        autoplay: false,
+        autoplay: true,
         loop: true,
         dots: false,
         autoplayTimeout: 4000,
@@ -62,7 +62,7 @@ $(document).ready(function(){
                 margin: 10
             },
             1200: {
-                items:5,
+                items:5.6,
                 margin: 15
             }
         }
@@ -91,15 +91,14 @@ $(document).ready(function(){
                   margin: 10
               },
               1200: {
-                  items:5,
-                  margin: 15
+                  items:5.6,
+                  margin: 15,
               }
           }
       });
   
     // shop slider 
     $('.shop-slider').owlCarousel({
-        margin: 20,
         items: 5,
         autoplay: true,
         loop: true,
@@ -120,7 +119,8 @@ $(document).ready(function(){
                 margin: 10
             },
             1200: {
-                items:5
+                items:5.6,
+                margin: 15,
             }
         }
     });

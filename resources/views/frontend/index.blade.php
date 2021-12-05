@@ -629,7 +629,7 @@
                     <div class="item">
                         <div class="category-item">
                             <div class="category-img">
-                                <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                                <img src="images/category/FARMACIE.jpg" alt="image" class="w-100">
                                 <div class="text-overlay">
                                     <h3><a href="#">FARMACIE</a></h3>
                                 </div>
@@ -794,7 +794,7 @@
                     <div class="item">
                         <div class="category-item">
                             <div class="category-img">
-                                <img src="images/category/ARREDAMENTO .jpg" alt="image" class="w-100">
+                                <img src="images/category/ARREDAMENTO.jpg" alt="image" class="w-100">
                                 <div class="text-overlay">
                                     <h3><a href="#">ARREDAMENTO</a></h3>
                                 </div>
@@ -893,7 +893,7 @@
                     <div class="item">
                         <div class="category-item">
                             <div class="category-img">
-                                <img src="images/category/placeholder.jpg" alt="image" class="w-100">
+                                <img src="images/category/ARTE-&-COLLEZIONISMO.jpg" alt="image" class="w-100">
                                 <div class="text-overlay">
                                     <h3><a href="#">ARTE & COLLEZIONISMO</a></h3>
                                 </div>
