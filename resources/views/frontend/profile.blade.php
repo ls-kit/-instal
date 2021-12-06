@@ -53,11 +53,36 @@
             <div class="row">
                 <div class="col-12 col-md-6 mb-3 mb-0-md">
                     <div class="kit-text">
-                        <h2>John Doe</h2>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus culpa est iste expedita esse accusamus amet ipsa accusantium</p>
+                        <h2>Inserisci si tuoi dati per Vedere se sei idoneo</h2>
                         <div class="kit-list">
                             <ul>
+
                                 <li>
+                                    <span><i class="fas fa-user"></i> nome</span>
+                                    <span></span>
+                                </li> 
+                                <li>
+                                    <span><i class="fas fa-user"></i> cognome</span>
+                                    <span></span>
+                                </li> 
+                                <li>
+                                    <span><i class="fas fa-circle"></i> codice fiscale</span>
+                                    <span></span>
+                                </li> 
+                                <li>
+                                    <span><i class="fas fa-phone-alt"></i> N. Cellulare</span>
+                                    <span></span>
+                                </li> 
+                                <li>
+                                    <span><i class="fas fa-home"></i> N. Casa</span>
+                                    <span></span>
+                                </li> 
+                                <li>
+                                    <span><i class="fas fa-home"></i> Indirizzo</span>
+                                    <span></span>
+                                </li> 
+                                
+                                <!-- <li>
                                     <span><i class="far fa-calendar-alt"></i></span>
                                     <span>31 Dec, 1995</span>
                                 </li>
@@ -76,7 +101,7 @@
                                 <li>
                                     <span><i class="fas fa-home"></i></span>
                                     <span>Loan Eligibility : Check QR Code</span>
-                                </li>
+                                </li> -->
                             </ul>
                         </div>
                         <div class="btn btn-success mt-2 mb-2">

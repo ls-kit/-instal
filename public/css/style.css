@@ -287,6 +287,19 @@ blockquote:after {
 }
 /* banner section end  */
 
+
+/* Banner Below Content */
+.banner-below {
+	padding: 50px 0;
+	text-align: center;
+}
+.banner-below p {
+	font-size: 22px;
+	line-height: 35px;
+}
+/* Banner Below Content end */
+
+
 /* info section start  */
 .info-sec .info-item {
 	padding: 30px 20px;

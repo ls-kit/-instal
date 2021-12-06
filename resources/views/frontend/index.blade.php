@@ -137,6 +137,14 @@
         <!-- banner section end  -->  
     </div>
 
+    <!-- banner below section  -->  
+    <section class="banner-below">
+        <p>NOVITA’ DA OGGI CAR  WRAPPING & LIQUID WRAPPING IN 4 <br> RATE SENZA INTERESSI CON INSTALPAY</p>
+    </section> 
+    <!-- banner below section end  -->  
+    
+
+
     <!-- services section start -->
     <section class="services category-sec sec-padding clearfix">
         <div class="container" data-aos="/fade-right" data-aos-duration="/1000">
@@ -1032,7 +1040,7 @@
                     </div>
                     <div class="item">
                         <div class="shop-item">
-                            <h3><a href="#">ACCESSORI ABBIGLAIAMENTO</a></h3>
+                            <h3><a href="#">Accessori Abbigliamento</a></h3>
                             <div class="shop-img">
                                 <img src="images/physical-shop/ACCESSORI ABBIGLAIAMENTO.jpg" alt="image" class="w-100">
                                 <div class="text-overlay">
@@ -1208,7 +1216,7 @@
                     </div>
                     <div class="item">
                         <div class="shop-item">
-                            <h3><a href="#">DIY & GARDENING</a></h3>
+                            <h3><a href="#">Fai da te & giardinaggio</a></h3>
                             <div class="shop-img">
                                 <img src="images/physical-shop/DIY & GARDENING.jpg" alt="image" class="w-100">
                                 <div class="text-overlay">
