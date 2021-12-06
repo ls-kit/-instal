@@ -463,7 +463,8 @@
     <section class="ecommerce-sec sec-padding">
         <div class="container">
             <div class="title">   
-                <h2><span>Piattaforma</span> di e-commerce</h2>
+                <!-- <h2><span>Piattaforma</span> di e-commerce</h2> -->
+                <h2><span>E</span>-commerce</h2>
             </div>
             <div class="owl-carousel ecommerce-slide" data-aos="/fade-right" data-aos-duration="1000">
                 <div class="item">
@@ -1284,9 +1285,9 @@
                     </div>
                 </div>
 
-            <div class="shop-page-link">
+            <!-- <div class="shop-page-link">
                 <a href="shop">Mostra più negozi in Bellezza <span><i class='fas fa-arrow-right'></i></span></a>
-            </div>
+            </div> -->
         </div>
     </section>
     <!-- physicalshop section end -->

@@ -16,7 +16,9 @@
     <section class="aboutpage-sec sec-padding">
         <div class="container">
             <div class="text t-center">
-                <p>Instalpay : cosa non siamo ; instalpay non è una finanziaria ma  una fintech ( finanza tecnologica ) con l’obiettivo di rilanciare l’economia dando  la possibilità di usufruire di servizi quali traslochi idraulici gommisti meccanici imbianchini e tanti altri pagando in comodo rate senza interessi senza busta paga e senza esposizione creditizia  inoltre diamo  anche la possibilità di acquistare su e-commerce Qualsiasi oggetto come abbigliamento scarpe gomme auto profumi gioielli vini e liquori e tanto altro sempre pagandoli in comode rate senza interessi .</p>
+                <p>intstalpay è una fintech ( finanza tecnologica ) la prima in Europa specializzata  nel  settore dei servizi che ha come obiettivo di rilanciare l’economia in Italia dando la possibilità di usufruire di servizi quali traslochi idraulici, gommisti ,meccanici ,imbianchini,  veterinari  e tanti altri pagando in comodo rate senza interessi 
+                senza busta paga e senza esposizione creditizia inoltre diamo anche la possibilità di acquistare su e-commerce e in negozio  qualsiasi oggetto come abbigliamento scarpe , gomme auto , profumi, gioielli , vini e liquori e tanto altro sempre senza interessi . 
+                </p>
             </div>
             <div class="row align-center mt-3 row-0">
                 <div class="col-12 col-md-6 py-2-md py-0">
