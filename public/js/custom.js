@@ -124,15 +124,18 @@ $(document).ready(function(){
             }
         }
     });
-  
-    // ecommerce slider 
+
     $('.ecommerce-slide').owlCarousel({
-        margin: 20,
-        items: 5,
-        autoplay: true,
+        nav: false,
         loop: true,
+        mouseDrag: false,
+        touchDrag: false,
+        pullDrag: false,
         dots: false,
-        autoplayTimeout: 800,
+        autoplay: true,
+        autoplaySpeed: 2200,
+        autoplayTimeout: 2200,
+        slideTransition: 'linear',
         responsiveClass:true,
         responsive:{
             0:{
@@ -148,7 +151,8 @@ $(document).ready(function(){
                 margin: 10
             },
             1200: {
-                items:5
+                items:5,
+                margin: 20,
             }
         }
     });
@@ -171,16 +175,3 @@ $(document).ready(function(){
 function googleTranslateElementInit() {
     new google.translate.TranslateElement({pageLanguage: 'it'}, 'google_translate_element');
 }
-
-// var card = $(".card");
-
-// $(".card").on("mousemove",function(e) {  
-//   var ax = -($(window).innerWidth()/2- e.pageX)/20;
-//   var ay = ($(window).innerHeight()/2- e.pageY)/10;
-//   card.attr("style", "transform: rotateY("+ax+"deg) rotateX("+ay+"deg);-webkit-transform: rotateY("+ax+"deg) rotateX("+ay+"deg);-moz-transform: rotateY("+ax+"deg) rotateX("+ay+"deg)");
-// });
-// $(".card").on("mouseout",function(e) {  
-//     var ax = -($(window).innerWidth()/2- e.pageX)/20;
-//     var ay = ($(window).innerHeight()/2- e.pageY)/10;
-//     card.attr("style", "transform: rotateY(0) rotateX(0);-webkit-transform: rotateY(0) rotateX(0);-moz-transform: rotateY(0) rotateX(0)");
-// }); 

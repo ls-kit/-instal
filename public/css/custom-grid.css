@@ -125,6 +125,9 @@
 .mt-3 {
 	margin-top: 3rem;
 }
+.mb-1 {
+	margin-bottom: 1rem;
+}
 .mb-2 {
 	margin-bottom: 2rem;
 }
@@ -134,11 +137,20 @@
 .py-0 {
 	padding: 0;
 }
+.pb-2 {
+	padding-bottom: 2rem;
+}
 .py-1 {
 	padding: 1rem 0;
 }
 .py-2 {
 	padding: 2rem 0;
+}
+.py-3 {
+	padding: 3rem 0;
+}
+.py-4 {
+	padding: 4rem 0;
 }
 .p-relative {
   position: relative;
@@ -274,6 +286,9 @@
   }
   .mb-0-md {
     margin-bottom: 0;
+  }
+  .mt-0-md {
+    margin-top: 0;
   }
   .mt-2-md {
     margin-top: 2rem;

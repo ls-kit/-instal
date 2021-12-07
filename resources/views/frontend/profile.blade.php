@@ -51,67 +51,44 @@
     <section class="kit-qr sec-padding">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-md-6 mb-3 mb-0-md">
+                <div class="col-12 col-md-7 mb-3 mb-0-md">
                     <div class="kit-text">
                         <h2>Inserisci si tuoi dati per Vedere se sei idoneo</h2>
-                        <div class="kit-list">
-                            <ul>
-
-                                <li>
-                                    <span><i class="fas fa-user"></i> nome</span>
-                                    <span></span>
-                                </li> 
-                                <li>
-                                    <span><i class="fas fa-user"></i> cognome</span>
-                                    <span></span>
-                                </li> 
-                                <li>
-                                    <span><i class="fas fa-circle"></i> codice fiscale</span>
-                                    <span></span>
-                                </li> 
-                                <li>
-                                    <span><i class="fas fa-phone-alt"></i> N. Cellulare</span>
-                                    <span></span>
-                                </li> 
-                                <li>
-                                    <span><i class="fas fa-home"></i> N. Casa</span>
-                                    <span></span>
-                                </li> 
-                                <li>
-                                    <span><i class="fas fa-home"></i> Indirizzo</span>
-                                    <span></span>
-                                </li> 
-                                
-                                <!-- <li>
-                                    <span><i class="far fa-calendar-alt"></i></span>
-                                    <span>31 Dec, 1995</span>
-                                </li>
-                                <li>
-                                    <span><i class="fas fa-phone-alt"></i></span>
-                                    <span>+858 4174 4567</span>
-                                </li>
-                                <li>
-                                    <span><i class="far fa-envelope"></i></span>
-                                    <span>john@gmail.com</span>
-                                </li>
-                                <li>
-                                    <span><i class="fas fa-home"></i></span>
-                                    <span>21Street, CA</span>
-                                </li>
-                                <li>
-                                    <span><i class="fas fa-home"></i></span>
-                                    <span>Loan Eligibility : Check QR Code</span>
-                                </li> -->
-                            </ul>
+                        <div class="profile-form">
+                            <form action="#">
+                                <div class="form-group">
+                                    <label for=""><i class="fas fa-user"></i> nome</label>
+                                    <input type="text" placeholder="nome">
+                                </div>
+                                <div class="form-group">
+                                    <label for=""><i class="fas fa-user"></i> cognome</label>
+                                    <input type="text" placeholder="cognome">
+                                </div>
+                                <div class="form-group">
+                                    <label for=""><i class="fas fa-circle"></i> codice fiscale</label>
+                                    <input type="number" placeholder="codice fiscale">
+                                </div>
+                                <div class="form-group">
+                                    <label for=""><i class="fas fa-phone-alt"></i> N. Cellulare</label>
+                                    <input type="text" placeholder="N. Cellulare">
+                                </div>
+                                <div class="form-group">
+                                    <label for=""><i class="fas fa-home"></i> N. Casa</label>
+                                    <input type="text" placeholder="N. Casa">
+                                </div>
+                                <div class="form-group">
+                                    <label for=""><i class="fas fa-map-marker-alt"></i> Indirizzo</label>
+                                    <input type="text" placeholder="Indirizzo">
+                                </div>
+                                <div class="btn btn-success">
+                                    <input type="submit" class="qr-btn" onclick="generateQRCode()" value="Generate">
+                                </div>
+                            </form>
                         </div>
-                        <div class="btn btn-success mt-2 mb-2">
-                            <a href="#" class="qr-btn" onclick="generateQRCode()">Generate</a>
-                        </div>
-
                         <p id="qr-text" class="d-none">Verified, You are eligible to get loan</p>
                     </div>
                 </div>
-                <div class="col-12 col-md-6">
+                <div class="col-12 col-md-5">
                     <div class="kit-img">
                         <p id="qr-result">This is deault QR code:</p>
                         <img id="kit-qr-img" src="images/qr.png" alt="image" class="w-80">

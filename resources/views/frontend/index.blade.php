@@ -11,7 +11,7 @@
                         <div class="banner-caption" data-aos="/zoom-in">
                             <h2>Finanziamenti Semplici Per Servizi Che Contano</h2>
                             <h4>Instalpay : La Rivoluzione</h4>
-                            <h5>Siamo una piattaforma tecnologica che ti consente di offrire ai tuoi clienti prestiti al consumo in tempo reale presso il loro domicilio o negozio</h5>
+                            <h5>Siamo una piattaforma tecnologica che ti consente di offrire ai tuoi clienti prestiti al consumo in tempo reale presso il loro domicilio o negozio e su moltissimi e-commerce</h5>
                         </div>
                     </div>
                     <div class="col-12 col-lg-5">
@@ -22,9 +22,9 @@
                                         <img src="images/card/cambia-le-gomme-auto-4-rate-da-100.jpg" alt="image">
                                     </div>
                                     <h3>
-                                        Cambia Le Gomme Della Tua Auto 
+                                        Cambia Le Gomme Della Tua Auto 120 Euro x 4 rate
                                         <!-- 120 euro x 4 rate , senza interessi ,senza busta paga  -->
-                                        <span>120 Euro x 4</span>
+                                        <span>Senza Interessi</span>
                                     </h3>
                                 </div>
                             </div>
@@ -34,9 +34,8 @@
                                         <img src="images/card/boiler.jpg" alt="image">
                                     </div>
                                     <h3>
-                                        Cambia La Caldaia Sconto Ecobonus 65 % 
-                                        <!-- subito in fattura 2497 put a cross on it and wrtite 839 euro 4 x 209.75 , no interessi no busta paga  -->
-                                        <span>839 Euro 4 x 209.75</span>
+                                        Cambia La Caldaia sconto ecobonus 65 % subito in fattura 2497 put a cross on it and wrtite 839 euro 4 x 209.75
+                                        <span>Senza Interessi</span>
                                     </h3>
                                 </div>
                             </div>
@@ -46,9 +45,9 @@
                                         <img src="images/card/pubblicità-trasloco.jpg" alt="image">
                                     </div>
                                     <h3>
-                                        Trasloca ora e paga poi es. Trasloco nella stessa città, appartamento 70 mq circa
+                                        Trasloca ora e paga poi es. Trasloco nella stessa città, appartamento 70 mq circa 4x 175 euro
                                         <!-- 4x 175 euro , senza interessi , senza busta paga -->
-                                        <span>4x 175 euro</span>
+                                        <span>Senza Interessi</span>
                                     </h3>
                                 </div>
                             </div>
@@ -58,8 +57,19 @@
                                         <img src="images/card/pubblicità-materasso.jpg" alt="image">
                                     </div>
                                     <h3>
-                                        Cambia Ora Il Tuo Materasso e Paga Dopo
-                                        <span>430 euro 4 x 107,50</span>
+                                        Cambia Ora Il Tuo Materasso e Paga Dopo 430 euro 4 x 107,50
+                                        <span>Senza Interessi</span>
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class="item d-flex justify-center py-1">
+                                <div class="card">
+                                    <div class="card-img">
+                                        <img src="images/card/impianto-elettrico-nuovo-+-cerificazione-1250.jpg" alt="image">
+                                    </div>
+                                    <h3>
+                                        Impianto Elettrico Nuovo + Certificazione 1250 euro o 4 x 312,50
+                                        <span>Senza Interessi</span>
                                     </h3>
                                 </div>
                             </div>
@@ -69,6 +79,7 @@
             </div>
         </section>
         <!-- banner section end  --> 
+
         <!-- banner section start  -->
         <section class="item banner-sec" style="background-image: url(images/banner.jpg);">
             <div class="container">
@@ -77,7 +88,7 @@
                         <div class="banner-caption" data-aos="/zoom-in">
                             <h2>Finanziamenti Semplici Per Servizi Che Contano</h2>
                             <h4>Instalpay : La Rivoluzione</h4>
-                            <h5>Siamo una piattaforma tecnologica che ti consente di offrire ai tuoi clienti prestiti al consumo in tempo reale presso il loro domicilio o negozio</h5>
+                            <h5>Siamo una piattaforma tecnologica che ti consente di offrire ai tuoi clienti prestiti al consumo in tempo reale presso il loro domicilio o negozio e su moltissimi e-commerce</h5>
                         </div>
                     </div>
                     <div class="col-12 col-lg-5">
@@ -88,9 +99,9 @@
                                         <img src="images/card/cambia-le-gomme-auto-4-rate-da-100.jpg" alt="image">
                                     </div>
                                     <h3>
-                                        Cambia Le Gomme Della Tua Auto 
+                                        Cambia Le Gomme Della Tua Auto 120 Euro x 4 rate
                                         <!-- 120 euro x 4 rate , senza interessi ,senza busta paga  -->
-                                        <span>120 Euro x 4</span>
+                                        <span>Senza Interessi</span>
                                     </h3>
                                 </div>
                             </div>
@@ -100,9 +111,8 @@
                                         <img src="images/card/boiler.jpg" alt="image">
                                     </div>
                                     <h3>
-                                        Cambia La Caldaia Sconto Ecobonus 65 % 
-                                        <!-- subito in fattura 2497 put a cross on it and wrtite 839 euro 4 x 209.75 , no interessi no busta paga  -->
-                                        <span>839 Euro 4 x 209.75</span>
+                                        Cambia La Caldaia sconto ecobonus 65 % subito in fattura 2497 put a cross on it and wrtite 839 euro 4 x 209.75
+                                        <span>Senza Interessi</span>
                                     </h3>
                                 </div>
                             </div>
@@ -112,9 +122,9 @@
                                         <img src="images/card/pubblicità-trasloco.jpg" alt="image">
                                     </div>
                                     <h3>
-                                        Trasloca ora e paga poi es. Trasloco nella stessa città, appartamento 70 mq circa
+                                        Trasloca ora e paga poi es. Trasloco nella stessa città, appartamento 70 mq circa 4x 175 euro
                                         <!-- 4x 175 euro , senza interessi , senza busta paga -->
-                                        <span>4x 175 euro</span>
+                                        <span>Senza Interessi</span>
                                     </h3>
                                 </div>
                             </div>
@@ -124,8 +134,19 @@
                                         <img src="images/card/pubblicità-materasso.jpg" alt="image">
                                     </div>
                                     <h3>
-                                        Cambia Ora Il Tuo Materasso e Paga Dopo
-                                        <span>430 euro 4 x 107,50</span>
+                                        Cambia Ora Il Tuo Materasso e Paga Dopo 430 euro 4 x 107,50
+                                        <span>Senza Interessi</span>
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class="item d-flex justify-center py-1">
+                                <div class="card">
+                                    <div class="card-img">
+                                        <img src="images/card/impianto-elettrico-nuovo-+-cerificazione-1250.jpg" alt="image">
+                                    </div>
+                                    <h3>
+                                        Impianto Elettrico Nuovo + Certificazione 1250 euro o 4 x 312,50
+                                        <span>Senza Interessi</span>
                                     </h3>
                                 </div>
                             </div>
@@ -141,10 +162,8 @@
     <section class="banner-below">
         <p>NOVITA’ DA OGGI CAR  WRAPPING & LIQUID WRAPPING IN 4 <br> RATE SENZA INTERESSI CON INSTALPAY</p>
     </section> 
-    <!-- banner below section end  -->  
-    
-
-
+    <!-- banner below section end  -->
+  
     <!-- services section start -->
     <section class="services category-sec sec-padding clearfix">
         <div class="container" data-aos="/fade-right" data-aos-duration="/1000">
@@ -152,7 +171,7 @@
                 <h2>Ser<span>vizi</span></h2>
             </div>
             <div class="owl-carousel service-slider">
-            <div class="item">
+                <div class="item">
                     <div class="category-item">
                         <div class="category-img">
                             <img src="images/services/IDRAULICI.jpg" alt="image" class="w-100">
@@ -179,10 +198,10 @@
                         <div class="category-img">
                             <img src="images/services/antenna-playr-antennista.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
-                                <h3><a href="#">Antenna playr antennista</a></h3>
+                                <h3><a href="#">Antenna playr antennisti</a></h3>
                             </div>
                         </div>
-                        <h3><a href="#">Antenna playr antennista</a></h3>
+                        <h3><a href="#">Antenna playr Antennisti</a></h3>
                     </div>
                 </div>
                 <div class="item">
@@ -244,10 +263,10 @@
                         <div class="category-img">
                             <img src="images/services/GIARDINIERI-ANTENNISTI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
-                                <h3><a href="#">GIARDINIERI ANTENNISTI</a></h3>
+                                <h3><a href="#">GIARDINIERI</a></h3>
                             </div>
                         </div>
-                        <h3><a href="#">GIARDINIERI ANTENNISTI</a></h3>
+                        <h3><a href="#">GIARDINIERI</a></h3>
                     </div>
                 </div>
                 <div class="item">
@@ -1293,12 +1312,42 @@
                     </div>
                 </div>
 
-            <!-- <div class="shop-page-link">
-                <a href="shop">Mostra più negozi in Bellezza <span><i class='fas fa-arrow-right'></i></span></a>
-            </div> -->
+            <div class="btn btn-success">
+                <a href="shop">All Items <span><i class='fas fa-arrow-right'></i></span></a>
+            </div>
         </div>
     </section>
     <!-- physicalshop section end -->
+
+    <!-- shop below section  -->  
+    <section class="shop-below bg-skyblue t-center py-4">
+        <div class="container">
+            <p>Indirizziamo Nostri Clienti qualificati verso i <br> vostri siti attraverso campagne di marketing cross-merchant</p>
+        </div>
+    </section> 
+    <!-- shop below section end  -->  
+
+    <!-- partner section start  -->  
+    <section class="partner-sec sec-padding">
+        <div class="container">
+            <div class="title">
+                <h2>Partners Con Cui Collaboriamo</h2>
+            </div>
+            <div class="partner-item t-center">
+                <div>
+                    <a href="#"><img src="images/ecommerce/zalando.png" alt=""></a>
+                    <a href="#"><img src="images/ecommerce/dpop.png" alt=""></a>
+                    <a href="#"><img src="images/ecommerce/manomano.png" alt=""></a>
+                </div>
+                <div>
+                    <a href="#"><img src="images/ecommerce/amazon.png" alt=""></a>
+                    <a href="#"><img src="images/ecommerce/mallporium.png" alt=""></a>
+                    <a href="#"><img src="images/ecommerce/aboutyou.png" alt=""></a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- partner section end  -->
 
     <!-- work section start  -->
     <section class="work-sec sec-padding">

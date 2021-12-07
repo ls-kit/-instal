@@ -242,7 +242,7 @@
                         </div>
                         <div class="col-6 col-sm-4 col-lg-3 fix">
                             <div class="shop-item">
-                                <h3><a href="#">DIY & GARDENING</a></h3>
+                                <h3><a href="#">Fai da te & giardinaggio</a></h3>
                                 <div class="shop-img">
                                     <img src="images/physical-shop/DIY & GARDENING.jpg" alt="image" class="w-100">
                                     <div class="text-overlay">

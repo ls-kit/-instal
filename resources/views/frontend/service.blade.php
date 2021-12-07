@@ -46,10 +46,10 @@
                         <div class="category-img">
                             <img src="images/services/antenna-playr-antennista.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
-                                <h3><a href="#">Antenna playr antennista</a></h3>
+                                <h3><a href="#">Antenna playr antennisti</a></h3>
                             </div>
                         </div>
-                        <h3><a href="#">Antenna playr antennista</a></h3>
+                        <h3><a href="#">Antenna playr antennisti</a></h3>
                     </div>
                 </div>
                 <div class="col-6 col-sm-4 col-lg-2-5">
@@ -111,10 +111,10 @@
                         <div class="category-img">
                             <img src="images/services/GIARDINIERI-ANTENNISTI.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
-                                <h3><a href="#">GIARDINIERI ANTENNISTI</a></h3>
+                                <h3><a href="#">GIARDINIERI</a></h3>
                             </div>
                         </div>
-                        <h3><a href="#">GIARDINIERI ANTENNISTI</a></h3>
+                        <h3><a href="#">GIARDINIERI</a></h3>
                     </div>
                 </div>
                 <div class="col-6 col-sm-4 col-lg-2-5">

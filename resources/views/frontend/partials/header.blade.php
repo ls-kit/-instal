@@ -17,7 +17,7 @@
                             </div>
                             <div class="d-flex order-1 order-md-2 tablet-signup">
                                 <div class="btn btn-success">
-                                    <a href="signup">Iscrizione</a>
+                                    <a href="signup">Registrati</a>
                                 </div>
                                 <div class="btn">
                                     <a href="signup">Login</a>
