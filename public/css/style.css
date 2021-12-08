@@ -305,6 +305,7 @@ blockquote:after {
 .banner-below p {
 	font-size: 22px;
 	color: #000;
+	font-weight: 600;
 }
 .banner-below .marquee {
     overflow: hidden;

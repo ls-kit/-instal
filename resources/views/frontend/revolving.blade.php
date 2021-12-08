@@ -4,9 +4,9 @@
     <section class="breadcrump-sec sec-padding">
         <div class="container">
             <div class="breadcrumb-text t-center">
-                <h2>About Us</h2>
+                <h2>Scopri Instalpay Revolving</h2>
                 <span><a href="index">Home</a> / </span>
-                <span class="disabled">About Us</span>
+                <span class="disabled">Revolving</span>
             </div>
         </div>
     </section>
