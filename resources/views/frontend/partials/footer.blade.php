@@ -1,5 +1,5 @@
  <!-- footer section start  -->
- <footer>
+ <footer class="footer-area">
     <div class="footer-sec">
         <div class="container">
             <div class="footer-logo mb-2">
@@ -19,9 +19,10 @@
                     <div class="page-link">
                         <h5 class="footer-title">Pages</h5>
                         <ul>
-                            <li><a href="#">Company</a></li>
-                            <li><a href="contact">Contatto</a></li>
-                            <li><a href="about">About</a></li>
+                            <li><a href="about">Chi Siamo</a></li>
+                            <li><a href="#">Come Funziona</a></li>
+                            <li><a href="#">Privacy</a></li>
+                            <li><a href="login">Login Sviluppatori</a></li>
                         </ul>
                     </div>
                 </div>
@@ -29,11 +30,10 @@
                     <div class="page-link">
                         <h5 class="footer-title">Cliente</h5>
                         <ul>
-                            <li><a href="login"></a></li>
-                            <li><a href="login">Consumatori</a></li>
-                            <li><a href="login">Mercante</a></li>
-                            <li><a href="login">Sviluppatore</a></li>
-                            <li><a href="login">Inventario </a></li>
+                            <li><a href="#">Acqvista</a></li>
+                            <li><a href="service">Servizi</a></li>
+                            <li><a href="#">Assisrenza</a></li>
+                            <li><a href="signup">Registrati </a></li>
                         </ul>
                     </div>
                 </div>
@@ -41,32 +41,12 @@
                     <div class="page-link">
                         <h5 class="footer-title">Venditori</h5>
                         <ul>
-                            <li><a href="login"></a></li>
-                            <li><a href="login">Consumatori</a></li>
-                            <li><a href="login">Mercante</a></li>
-                            <li><a href="login">Sviluppatore</a></li>
-                            <li><a href="login">Inventario </a></li>
+                            <li><a href="#">Vendi Con Instalpay</a></li>
+                            <li><a href="#">Assistenza</a></li>
+                            <li><a href="#">Portale svicuppatori</a></li>
                         </ul>
                     </div>
                 </div>
-                <!-- <div class="col-12 col-md-6 col-xl-4 mt-3-md mb-3 mb-0-lg mt-0-xl">
-                    <div class="contact-info">
-                        <h5 class="footer-title">Connettiti con noi</h5>
-                        <ul>
-                            <li>
-                                <span><i class="far fa-envelope"></i></span>
-                                <span>Email </span>
-                                <span><a href="mailto:">info@instalpay.net</a></span>
-                            </li>
-                        </ul>
-                        <ul class="social mt-1">
-                            <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                            <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
-                        </ul>
-                    </div>
-                </div> -->
             </div>
     
             <div class="row mt-2">

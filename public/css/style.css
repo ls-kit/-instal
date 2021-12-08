@@ -140,6 +140,13 @@ blockquote:after {
 .header-sec:hover {
 	background-color: #BCE4FE3B;
 }
+.header-sec .header-text {
+	color: var(--white);
+	font-weight: 500;
+}
+.header-sec.sticky .header-text {
+	color: var(--dark);
+}
 .header-sec.signup-header {
 	position: relative;
 	background-color: var(--white);
@@ -751,7 +758,7 @@ to {opacity: 1}
 	color: var(--primary);
 }
 .footer-sec .contact-info .contact li {
-	margin-bottom: 5px;
+	margin-bottom: 10px;
 }
 .footer-sec .contact-info .contact li span i {
 	font-size: 18px;
@@ -782,6 +789,9 @@ to {opacity: 1}
 	color: var(--white);
 }
 .copyright-text a {
+	color: var(--white);
+}
+.copyright-text a:hover {
 	color: var(--primary);
 }
 /* footer section end  */
@@ -1197,6 +1207,23 @@ to {opacity: 1}
 		font-size: 35px;
 		line-height: 50px;
 	}
+	.header-sec .tablet-signup {
+		position: absolute;
+		right: 0;
+		bottom: 42px;
+		justify-content: center;
+		margin: 1rem 0;
+	}
+	.header-sec .header-text {
+		margin: 5px auto;
+		font-size: 14px;
+	}
+	.header-sec .align-center {
+		align-items: inherit;
+	}
+	.banner-sec {
+		padding: 115px 0 20px 0;
+	}
 }
 @media (min-width: 576px) and (max-width: 991px) {
 	.about-sec .about-list ul li {
@@ -1250,23 +1277,17 @@ to {opacity: 1}
 	.registration-form {
 		width: 98%;
 	}
-	.header-sec .tablet-signup {
-		justify-content: center;
-		margin: 1rem 0;
-	}
 	.footer-about img {
 		width: 250px;
 	}
-	.header-sec .tablet-signup {
-		position: absolute;
-		right: 0;
-		bottom: 28px;
+	.footer-sec .chat {
+		margin-top: 13px;
 	}
-	.header-sec .btn.search-bar {
-		margin-top: 1rem;
+	.footer-sec .chat a {
+		font-size: 17px;
 	}
-	.banner-sec {
-		padding: 105px 0;
+	.footer-sec .contact-info .contact .address {
+		line-height: 25px;
 	}
 
 }
@@ -1308,5 +1329,8 @@ to {opacity: 1}
 	}
 	.profile-form .form-group {
 		display: block;
+	}
+	.footer-area {
+		text-align: center;
 	}
 }

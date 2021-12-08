@@ -3,19 +3,20 @@
         <div class="container">
             <nav class="p-relative">
                 <div class="row mobile-row align-center">
-                    <div class="col-12 col-md-4 logo">
+                    <div class="col-12 col-lg-2 logo">
                         <!-- logo -->
                         <a href="index.php">
                             <img src="images/INSTALPAYf.png" alt="logo">
                         </a>
                     </div>
-                    <div class="col-12 col-md-8">
-                        <div class="btn-group justify-end flex-column flex-md-row">
-                            <div class="btn search-bar p-relative order-2 order-md-1">
+                    <div class="col-12 col-lg-10">
+                        <div class="btn-group justify-end flex-column flex-lg-row align-center">
+                            <div class="mr-1 header-text">Scopri Instalpay Revolving</div>
+                            <div class="btn search-bar p-relative order-2 order-lg-1 mr-0 mr-1-lg">
                                 <input type="search" placeholder="Search" />
                                 <button><i class="fas fa-search"></i></button>
                             </div>
-                            <div class="d-flex order-1 order-md-2 tablet-signup">
+                            <div class="d-flex order-1 order-lg-2 tablet-signup">
                                 <div class="btn btn-success">
                                     <a href="signup">Registrati</a>
                                 </div>

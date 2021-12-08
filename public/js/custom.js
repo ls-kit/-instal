@@ -63,7 +63,8 @@ $(document).ready(function(){
             },
             1200: {
                 items:5.6,
-                margin: 15
+                margin: 15,
+                slideBy: 3
             }
         }
     });
@@ -93,6 +94,7 @@ $(document).ready(function(){
               1200: {
                   items:5.6,
                   margin: 15,
+                  slideBy: 3
               }
           }
       });
@@ -103,7 +105,11 @@ $(document).ready(function(){
         autoplay: true,
         loop: true,
         dots: false,
-        autoplayTimeout: 4000,
+        mouseDrag: false,
+        touchDrag: false,
+        pullDrag: false,
+        autoplaySpeed: 7000,
+        slideTransition: 'linear',
         responsiveClass:true,
         responsive:{
             0:{
@@ -120,7 +126,7 @@ $(document).ready(function(){
             },
             1200: {
                 items:5.6,
-                margin: 15,
+                margin: 15
             }
         }
     });
@@ -133,8 +139,7 @@ $(document).ready(function(){
         pullDrag: false,
         dots: false,
         autoplay: true,
-        autoplaySpeed: 2200,
-        autoplayTimeout: 2200,
+        autoplaySpeed: 7000,
         slideTransition: 'linear',
         responsiveClass:true,
         responsive:{
@@ -152,7 +157,7 @@ $(document).ready(function(){
             },
             1200: {
                 items:5,
-                margin: 20,
+                margin: 20
             }
         }
     });
