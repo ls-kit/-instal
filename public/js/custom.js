@@ -41,7 +41,7 @@ $(document).ready(function(){
   
     // category slider 
     $('.category-slide').owlCarousel({
-        autoplay: true,
+        autoplay: false,
         loop: true,
         dots: false,
         autoplayTimeout: 4000,
@@ -59,7 +59,7 @@ $(document).ready(function(){
             },
             768:{
                 items:4,
-                margin: 10
+                margin: 5
             },
             1200: {
                 items:5.6,
@@ -81,15 +81,15 @@ $(document).ready(function(){
       responsive:{
               0:{
                   items:2,
-                  margin: 10
+                  margin: 5
               },
               577:{
                   items:3,
-                  margin: 10
+                  margin: 5
               },
               768:{
                   items:4,
-                  margin: 10
+                  margin: 5
               },
               1200: {
                   items:5.6,
@@ -111,15 +111,15 @@ $(document).ready(function(){
         responsive:{
             0:{
                 items:2,
-                margin: 10
+                margin: 5
             },
             577:{
                 items:3,
-                margin: 10
+                margin: 5
             },
             768:{
                 items:4,
-                margin: 10
+                margin: 5
             },
             1200: {
                 items:5.6,
@@ -128,6 +128,7 @@ $(document).ready(function(){
         }
     });
 
+    // ecommerce slide 
     $('.ecommerce-slide').owlCarousel({
         nav: false,
         loop: true,

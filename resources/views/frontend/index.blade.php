@@ -872,7 +872,7 @@
                             <div class="category-img">
                                 <img src="images/category/ARTICOLI PER ADULTI.jpg" alt="image" class="w-100">
                                 <div class="text-overlay">
-                                    <h3><a href="#">ARTICOLI PER ADULTI/a></h3>
+                                    <h3><a href="#">ARTICOLI PER ADULTI</a></h3>
                                 </div>
                             </div>
                             <h3><a href="#">ARTICOLI PER ADULTI</a></h3>
@@ -1067,7 +1067,7 @@
                             <div class="shop-img">
                                 <img src="images/physical-shop/ACCESSORI ABBIGLAIAMENTO.jpg" alt="image" class="w-100">
                                 <div class="text-overlay">
-                                    <a href="#"><i class="fas fa-store-alt"></i></a></i>
+                                    <a href="#"><i class="fas fa-store-alt"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -1315,6 +1315,7 @@
                         </div>
                     </div>
                 </div>
+            </div>
 
             <div class="btn btn-success">
                 <a href="shop">All Items <span><i class='fas fa-arrow-right'></i></span></a>
