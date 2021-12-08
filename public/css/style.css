@@ -294,18 +294,27 @@ blockquote:after {
 }
 /* banner section end  */
 
-
 /* Banner Below Content */
 .banner-below {
 	padding: 50px 0;
-	text-align: center;
 }
 .banner-below p {
 	font-size: 22px;
-	line-height: 35px;
+}
+.banner-below .marquee {
+    overflow: hidden;
+}
+.banner-below .marquee > div {
+  display: flex;
+  white-space: nowrap;
+  animation: marquee 25s linear infinite;
+  padding-left: 100%; 
+}
+@keyframes marquee {
+    0%   { transform: translate(0, 0); }
+    100% { transform: translate(-200%, 0); }
 }
 /* Banner Below Content end */
-
 
 /* info section start  */
 .info-sec .info-item {

@@ -160,7 +160,11 @@
 
     <!-- banner below section  -->  
     <section class="banner-below">
-        <p>NOVITA’ DA OGGI CAR  WRAPPING & LIQUID WRAPPING IN 4 <br> RATE SENZA INTERESSI CON INSTALPAY</p>
+        <div class="container marquee">
+            <div>
+                <p>NOVITA’ DA OGGI CAR  WRAPPING & LIQUID WRAPPING IN 4 RATE SENZA INTERESSI CON INSTALPAY</p>
+            </div>
+        </div>
     </section> 
     <!-- banner below section end  -->
   
@@ -198,10 +202,10 @@
                         <div class="category-img">
                             <img src="images/services/antenna-playr-antennista.jpg" alt="image" class="w-100">
                             <div class="text-overlay">
-                                <h3><a href="#">Antenna playr antennisti</a></h3>
+                                <h3><a href="#">Antennisti</a></h3>
                             </div>
                         </div>
-                        <h3><a href="#">Antenna playr Antennisti</a></h3>
+                        <h3><a href="#">Antennisti</a></h3>
                     </div>
                 </div>
                 <div class="item">
