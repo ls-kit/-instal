@@ -140,12 +140,16 @@ blockquote:after {
 .header-sec:hover {
 	background-color: #BCE4FE3B;
 }
-.header-sec .header-text {
+.header-sec .header-text a {
 	color: var(--white);
 	font-weight: 500;
+	transition: 0.3s;
 }
-.header-sec.sticky .header-text {
+.header-sec.sticky .header-text a {
 	color: var(--dark);
+}
+.header-sec .header-text a:hover {
+	color: var(--primary);
 }
 .header-sec.signup-header {
 	position: relative;
@@ -300,6 +304,7 @@ blockquote:after {
 }
 .banner-below p {
 	font-size: 22px;
+	color: #000;
 }
 .banner-below .marquee {
     overflow: hidden;

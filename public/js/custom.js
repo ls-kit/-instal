@@ -51,11 +51,11 @@ $(document).ready(function(){
         responsive:{
             0:{
                 items:2,
-                margin: 10
+                margin: 5
             },
             577:{
                 items:3,
-                margin: 10
+                margin: 5
             },
             768:{
                 items:4,

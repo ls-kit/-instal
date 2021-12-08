@@ -11,7 +11,9 @@
                     </div>
                     <div class="col-12 col-lg-10">
                         <div class="btn-group justify-end flex-column flex-lg-row align-center">
-                            <div class="mr-1 header-text">Scopri Instalpay Revolving</div>
+                            <div class="mr-1 header-text">
+                                <a href="revolving">Scopri Instalpay Revolving</a>
+                            </div>
                             <div class="btn search-bar p-relative order-2 order-lg-1 mr-0 mr-1-lg">
                                 <input type="search" placeholder="Search" />
                                 <button><i class="fas fa-search"></i></button>

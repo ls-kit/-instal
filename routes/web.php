@@ -23,5 +23,6 @@ Route::get('/service', [FrontendController::class, 'service'])->name('service');
 Route::get('/shop', [FrontendController::class, 'shop'])->name('shop');
 Route::get('/signup', [FrontendController::class, 'signup'])->name('signup');
 Route::get('/login', [FrontendController::class, 'login'])->name('login');
+Route::get('/revolving', [FrontendController::class, 'revolving'])->name('revolving');
 
 

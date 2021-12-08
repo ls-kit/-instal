@@ -50,5 +50,10 @@ class FrontendController extends Controller
    {
     return view('frontend.login');
    }
+   public function revolving()
+   {
+    return view('frontend.revolving');
+   }
+
 
 }
