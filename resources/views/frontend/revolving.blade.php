@@ -16,8 +16,7 @@
     <section class="aboutpage-sec sec-padding">
         <div class="container">
             <div class="text t-center">
-                <p>Credito revolving è un tipo di credito che può essere utilizzato fino a un certo limite purché il conto sia aperto e i pagamenti effettuati in tempo . Con instalpay revolving , gli acquirenti hanno la libertà finanziaria di fare richiesta una sola volta, acquistare spesso e pagare in seguito utilizzando il credito revolving, senza il fastidio delle carte di credito o dei prestiti rateali di un acquisto singolo. Ottieni più clienti che aumenta a tornare Converti nuovi acquirenti, il valore medio degli ordini e incentiva gli acquisti ripetuti con una linea di credito revolving 
-                </p>
+                <p>Il credito revolving è un tipo di credito che può essere utilizzato ripetutamente fino a un certo limite purché il conto sia aperto e i pagamenti vengano effettuati in tempo. Con instalpay revolving , gli acquirenti hanno la libertà finanziaria di fare richiesta  una sola  volta,acquistare spesso e pagare in seguito utilizzando il credito revolving, senza il fastidio delle carte di credito o dei prestiti rateali di un  acquisto singolo. Ottieni più clienti che continuano a tornare Converti nuovi acquirenti, aumenta il valore medio degli ordini e incentiva gli acquisti ripetuti con una linea di credito revolving</p>
             </div>
         </div>
     </section>

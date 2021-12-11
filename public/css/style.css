@@ -804,7 +804,7 @@ to {opacity: 1}
 	color: var(--white);
 }
 .copyright-text a {
-	color: var(--white);
+	color: #ffffff87;
 }
 .copyright-text a:hover {
 	color: var(--primary);

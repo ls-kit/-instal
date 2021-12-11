@@ -18,7 +18,6 @@
 
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="css/owl.carousel.min.css"/>
-    <link rel="stylesheet" href="css/ticker.min.css"/>
 
     <!-- grid css -->
     <link rel="stylesheet" href="css/custom-grid.css">
@@ -64,7 +63,6 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script src="js/owl.carousel.min.js"></script>
-    <script src="js/ticker.min.js"></script>
     <script src="js/jquery.plate.js"></script>
     <script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     <script src="js/custom.js"></script>
