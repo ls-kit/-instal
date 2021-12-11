@@ -34,7 +34,7 @@
                                         <img src="images/card/boiler.jpg" alt="image">
                                     </div>
                                     <h3>
-                                        Cambia La Caldaia sconto ecobonus 65 % subito in fattura 2497 put a cross on it and wrtite 839 euro 4 x 209.75
+                                        Cambia la caldaia subito sconto in fattura da 2497 €. a. 839 €. O 4 rate da 209.75
                                         <span>Senza Interessi</span>
                                     </h3>
                                 </div>
@@ -111,7 +111,7 @@
                                         <img src="images/card/boiler.jpg" alt="image">
                                     </div>
                                     <h3>
-                                        Cambia La Caldaia sconto ecobonus 65 % subito in fattura 2497 put a cross on it and wrtite 839 euro 4 x 209.75
+                                        Cambia la caldaia subito sconto in fattura da 2497 €. a. 839 €. O 4 rate da 209.75
                                         <span>Senza Interessi</span>
                                     </h3>
                                 </div>
@@ -1340,14 +1340,14 @@
             </div>
             <div class="partner-item t-center">
                 <div>
-                    <a href="#"><img src="images/ecommerce/zalando.png" alt=""></a>
-                    <a href="#"><img src="images/ecommerce/dpop.png" alt=""></a>
-                    <a href="#"><img src="images/ecommerce/manomano.png" alt=""></a>
+                    <a href="https://tirichiamo.it/"><img src="images/partner/tirichiamo.png" alt="logo"></a>
+                    <a href="https://www.prontopro.it/"><img src="images/partner/prontopro.png" alt="logo"></a>
+                    <a href="https://www.instapro.it/"><img src="images/partner/instapro.png" alt="logo"></a>
                 </div>
                 <div>
-                    <a href="#"><img src="images/ecommerce/amazon.png" alt=""></a>
-                    <a href="#"><img src="images/ecommerce/mallporium.png" alt=""></a>
-                    <a href="#"><img src="images/ecommerce/aboutyou.png" alt=""></a>
+                    <a href="https://www.preventivofacile.it/"><img src="images/partner/preventivofacile.png" alt="logo"></a>
+                    <a href="https://www.matrimonio.com/"><img src="images/partner/matrimonio.png" alt="logo"></a>
+                    <a href="https://www.ernesto.it/"><img src="images/partner/ernesto.png" alt="logo"></a>
                 </div>
             </div>
         </div>
@@ -1462,44 +1462,5 @@
         </div>
     </section>
     <!-- why section end  -->
-
-    <!-- info section end  -->
-    <!-- <section class="info-sec sec-padding">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="info-item merchant">
-                        <img src="images/info/1.png" alt="">
-                        <h2>Merchants</h2>
-                        <p>Ci integriamo direttamente con il tuo software aziendale, in modo che i clienti possano presentare domanda in pochi secondi</p>
-                        <div class="btn">
-                            <a href="signup">Register Now</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="info-item bg-skyblue consumer">
-                        <img src="images/info/2.png" alt="">
-                        <h2>Consumers</h2>
-                        <p>Ci integriamo direttamente con il tuo software aziendale, in modo che i clienti possano presentare domanda in pochi secondi</p>
-                        <div class="btn">
-                            <a href="signup">Register Now</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-6 col-lg-4">
-                    <div class="info-item developer">
-                        <img src="images/info/3.png" alt="">
-                        <h2>Developers</h2>
-                        <p>Ci integriamo direttamente con il tuo software aziendale, in modo che i clienti possano presentare domanda in pochi secondi</p>
-                        <div class="btn">
-                            <a href="signup">Register Now</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-    <!-- info section end  -->
 
 @endsection

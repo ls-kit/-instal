@@ -30,9 +30,9 @@
                     <div class="page-link">
                         <h5 class="footer-title">Cliente</h5>
                         <ul>
-                            <li><a href="#">Acqvista</a></li>
+                            <li><a href="#">Acquista</a></li>
                             <li><a href="service">Servizi</a></li>
-                            <li><a href="#">Assisrenza</a></li>
+                            <li><a href="#">Assistenza</a></li>
                             <li><a href="signup">Registrati </a></li>
                         </ul>
                     </div>
@@ -43,7 +43,7 @@
                         <ul>
                             <li><a href="#">Vendi Con Instalpay</a></li>
                             <li><a href="#">Assistenza</a></li>
-                            <li><a href="#">Portale svicuppatori</a></li>
+                            <li><a href="#">Portale sviluppatori</a></li>
                         </ul>
                     </div>
                 </div>

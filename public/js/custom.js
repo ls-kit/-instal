@@ -41,7 +41,7 @@ $(document).ready(function(){
   
     // category slider 
     $('.category-slide').owlCarousel({
-        autoplay: false,
+        autoplay: true,
         loop: true,
         dots: false,
         autoplayTimeout: 4000,

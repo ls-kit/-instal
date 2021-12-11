@@ -100,7 +100,7 @@
     </section>
     <!-- kit-qr section end -->
 
-     <!-- footer section start  -->
+    <!-- footer section start  -->
     <footer class="footer-area">
         <div class="footer-sec">
             <div class="container">
@@ -119,7 +119,7 @@
                 <div class="row top pb-2">
                     <div class="col-12 col-md-6 col-xl-4">
                         <div class="page-link">
-                            <h5 class="footer-title">Pages</h5>
+                            <h5 class="footer-title">Pagine</h5>
                             <ul>
                                 <li><a href="about">Chi Siamo</a></li>
                                 <li><a href="#">Come Funziona</a></li>
@@ -132,9 +132,9 @@
                         <div class="page-link">
                             <h5 class="footer-title">Cliente</h5>
                             <ul>
-                                <li><a href="#">Acqvista</a></li>
+                                <li><a href="#">Acquista</a></li>
                                 <li><a href="service">Servizi</a></li>
-                                <li><a href="#">Assisrenza</a></li>
+                                <li><a href="#">Assistenza</a></li>
                                 <li><a href="signup">Registrati </a></li>
                             </ul>
                         </div>
@@ -145,7 +145,7 @@
                             <ul>
                                 <li><a href="#">Vendi Con Instalpay</a></li>
                                 <li><a href="#">Assistenza</a></li>
-                                <li><a href="#">Portale svicuppatori</a></li>
+                                <li><a href="#">Portale sviluppatori</a></li>
                             </ul>
                         </div>
                     </div>
