@@ -25,7 +25,7 @@
                     <div class="title title-sm">
                         <h2 class="t-left">Our <span>Mission</span></h2>
                     </div>
-                    <p>Instalpay : cosa non siamo ; instalpay non è una finanziaria ma  una fintech ( finanza tecnologica ) con l’obiettivo di rilanciare l’economia dando  la possibilità di usufruire di servizi quali</p>
+                    <p>la nostra mission è di facilitare e velocizzare i finanziamenti per i servizi di cui avete bisogno in maniera semplice e sempre senza interessi diventando i leader del settore</p>
                 </div>
                 <div class="col-12 col-md-6">
                     <img src="images/mission.jpg" alt="images" class="w-100">
@@ -39,7 +39,7 @@
                     <div class="title title-sm">
                         <h2 class="t-left">Why Choose <span>Us</span></h2>
                     </div>
-                    <p>Instalpay : cosa non siamo ; instalpay non è una finanziaria ma  una fintech ( finanza tecnologica ) con l’obiettivo di rilanciare l’economia dando  la possibilità di usufruire di servizi quali</p>
+                    <p>perché siamo l’unica fintech al Mondo che non applica interessi per ritardati pagamenti . Perché siamo i primi in Europa ad offrire finanziamenti per i servizi . Perché per noi tutto inizia con il cliente , risolvere i loro problemi è ciò che ci distingue , trascorriamo tempo con i clienti per comprenderli e soddisfare le loro esigenze .</p>
                 </div>
             </div>
         </div>

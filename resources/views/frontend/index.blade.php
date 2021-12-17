@@ -88,7 +88,7 @@
                         <div class="banner-caption" data-aos="/zoom-in">
                             <h2>Finanziamenti Semplici Per Servizi Che Contano</h2>
                             <h4>Instalpay : La Rivoluzione</h4>
-                            <h5>Siamo una piattaforma tecnologica che ti consente di offrire ai tuoi clienti prestiti al consumo in tempo reale presso il loro domicilio o negozio e su moltissimi e-commerce</h5>
+                            <h5>INSTALPAY da la possibilità di suddividere in 4 rate mensili servizi quali lavori idraulici , imbianchini , gommisti , traslochi , medici estetici , ecc . Senza interessi e senza busta paga</h5>
                         </div>
                     </div>
                     <div class="col-12 col-lg-5">
@@ -1364,22 +1364,22 @@
                 <div class="col-12 col-sm-6 col-md-4 d-flex justify-center">
                     <div class="work-item">
                         <img src="images/work/1.png" alt="image" class="w-100">
-                        <h3>Perché Instalpay</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, dolore natus distinctio</p>
+                        <h3>come funziona clienti</h3>
+                        <p>registrati , cerca tra i numerosi professionisti o tra gli e-commerce , inserisci il codice che ricevi via telefono , verifica idoneità , esito 2 minuti -</p>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4 d-flex justify-center">
                     <div class="work-item">
                         <img src="images/work/2.png" alt="image" class="w-100">
-                        <h3>Perché Instalpay</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, dolore natus distinctio</p>
+                        <h3>come funziona artigiani</h3>
+                        <p>fai registrare il cliente , inserisci preventivo , il cliente inserisce il codice ricevuto , verifica idoneità , esito in 2 minuti</p>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 col-md-4 d-flex justify-center">
                     <div class="work-item">
                         <img src="images/work/3.png" alt="image" class="w-100">
-                        <h3>Perché Instalpay</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, dolore natus distinctio</p>
+                        <h3>come funziona negozi fisici </h3>
+                        <p> il cliente sceglie un prodotto tra i negozi fisici convenzionati , si registra , inserisce importo , inserisce il codice di verifica ricevuto ,se idoneo mostra alla cassa il codice qr generato. esito 2 minuti .</p>
                     </div>
                 </div>
             </div>
