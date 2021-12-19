@@ -175,7 +175,7 @@ $(document).ready(function(){
 	
 	// Accep cookie
 	$(".cookie-consent-banner .accept, .cookie-consent-banner .decline").click(function () {
-		$(".cookie-consent-banner").fadeOut();
+		$(".cookie-consent-banner").hide();
 	});
 });
   
