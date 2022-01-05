@@ -19,7 +19,9 @@
             margin-bottom: 16px;
         }
 
-        .cookie-consent-banner__actions {}
+        .cookie-consent-banner__actions {
+            margin-top: 12px;
+        }
 
         .cookie-consent-banner__header {
             margin-bottom: 8px;
