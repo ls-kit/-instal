@@ -162,7 +162,8 @@
     <section class="banner-below">
         <div class="container marquee">
             <div>
-                <p>NOVITA’ DA OGGI CAR  WRAPPING & LIQUID WRAPPING IN 4 RATE SENZA INTERESSI CON INSTALPAY</p>
+                <p>NOVITA’ DA OGGI CAR  WRAPPING & LIQUID WRAPPING IN 4 RATE SENZA INTERESSI CON INSTALPAY.</p> &nbsp; &nbsp; 
+                <p>NOVITÀ INSTALLAZIONE COLONNINA PER AUTO ELETTRICHE DA CASA WALL BOX IN 4 RATE SENZA INTERESSI !!</p>
             </div>
         </div>
     </section> 
